@@ -48,3 +48,10 @@
 
 ### 문제 접근
 
+  - commands에 따라 array를 slice한 후, partial vector에 저장
+
+  - slice 과정은 for문으로 진행
+
+    - for문은 최대 array의 최대 길이 값인 100번 반복됨
+
+  - partial에서 commands의 지정된 인덱스로 접근하여 목표 값 추출
