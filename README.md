@@ -9,10 +9,11 @@
 ## 문제
 
   ### Level 1
-
+  
   <details>
   <summary>Level 1 문제 보기</summary>
   <div markdown="1">
+
   - [2016년 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/2016%EB%85%84)
   - [가운데 글자 가져오기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
   - [같은 숫자는 싫어 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4)
@@ -25,5 +26,6 @@
   - [소수만들기 - Summer/Winter Coding(~2018)](https://github.com/Cha-Y-S/Algorithm/tree/main/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
   - [K번째 수 - 정렬](https://github.com/Cha-Y-S/Algorithm/tree/main/K%EB%B2%88%EC%A7%B8%EC%88%98)
   - [모의고사 - 완전탐색](https://github.com/Cha-Y-S/Algorithm/tree/main/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
+
   </div>
   </details>
