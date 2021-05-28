@@ -22,6 +22,8 @@
 
   - [두 정수 사이의 합 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9)
 
+  - [문자열 다루기 기본 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8)
+
   - [서울에서 김서방 찾기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0)
 
   - [직사각형 별찍기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0)
