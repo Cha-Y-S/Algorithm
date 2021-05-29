@@ -26,6 +26,8 @@
 
   - [서울에서 김서방 찾기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0)
 
+  - [약수의 합 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9)
+
   - [직사각형 별찍기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0)
   
   - [내적 - 월간 코드 챌린지 시즌 1](https://github.com/Cha-Y-S/Algorithm/tree/main/%EB%82%B4%EC%A0%81)
