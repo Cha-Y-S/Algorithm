@@ -34,6 +34,8 @@
 
   - [약수의 합 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9)
 
+  - [이상한 문자 만들기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
   - [정수 내림차순으로 배치하기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
 
   - [직사각형 별찍기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0)
