@@ -14,6 +14,8 @@
 
   - [2016년 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/2016%EB%85%84)
 
+  - [x만큼 간격이 있는 n개의 숫자 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90)
+
   - [가운데 글자 가져오기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 
   - [같은 숫자는 싫어 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4)
@@ -47,6 +49,12 @@
   - [짝수와 홀수 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98)
 
   - [평균 구하기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+
+  - [하샤드 수 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98)
+
+  - [핸드폰 번호 가리기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0)
+
+  - [행렬의 덧셈 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88)
   
   - [내적 - 월간 코드 챌린지 시즌 1](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EB%82%B4%EC%A0%81)
   
