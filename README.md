@@ -38,7 +38,9 @@
 
   - [소수 찾기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)
 
-  - [수박수박수박수박수박수](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)
+  - [수박수박수박수박수박수 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)
+
+  - [시저 암호 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)
 
   - [약수의 합 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9)
 
@@ -57,6 +59,10 @@
   - [직사각형 별찍기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0)
 
   - [짝수와 홀수 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98)
+
+  - [최대공약수와 최소공배수 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
+
+  - [콜라츠 추측 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1)
 
   - [평균 구하기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 
