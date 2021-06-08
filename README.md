@@ -83,6 +83,8 @@
   - [K번째 수 - 정렬](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
   
   - [모의고사 - 완전탐색](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
+
+  - [폰켓몬 - 찾아라 프로그래밍 마에스터](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
   
   </div>
   </details>
