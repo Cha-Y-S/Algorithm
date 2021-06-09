@@ -87,6 +87,8 @@
   - [모의고사 - 완전탐색](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
 
   - [폰켓몬 - 찾아라 프로그래밍 마에스터](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
+
+  - [실패율 - 2019 KAKAO BLIND RECRUITMENT](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8)
   
   </div>
   </details>
