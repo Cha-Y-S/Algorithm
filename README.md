@@ -90,6 +90,8 @@
 
   - [폰켓몬 - 찾아라 프로그래밍 마에스터](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
 
+  - [다트게임 - 2018 KAKAO BLIND RECRUITMENT](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84)
+
   - [비밀지도 - 2018 KAKAO BLIND RECRUITMENT](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
 
   - [실패율 - 2019 KAKAO BLIND RECRUITMENT](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8)
