@@ -18,10 +18,10 @@
 
 ### 입출력 예
 
-| s | answer |
-|:----:|:----:|
-| "pPoooyY" | true |
-| "Pyy" | false |
+|     s     | answer |
+| :-------: | :----: |
+| "pPoooyY" |  true  |
+|   "Pyy"   | false  |
 
 ---
 
