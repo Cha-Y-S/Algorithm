@@ -1,4 +1,4 @@
-# [1차]비밀지도 - 2018 KAKAO BLIND RECRUITMENT
+# [1차]다트게임 - 2018 KAKAO BLIND RECRUITMENT
 
 ### 문제 설명
 
