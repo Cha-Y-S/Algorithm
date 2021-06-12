@@ -71,6 +71,10 @@
   - [핸드폰 번호 가리기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0)
 
   - [행렬의 덧셈 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88)
+
+  - [K번째 수 - 정렬](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
+  
+  - [모의고사 - 완전탐색](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
   
   - [3진법 뒤집기 - 월간 코드 챌린지 시즌 1](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0)
 
@@ -83,10 +87,6 @@
   - [음양 더하기 - 프로그래머스 월간 코드 챌린지 시즌 2](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
   
   - [소수만들기 - Summer/Winter Coding(~2018)](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
-  
-  - [K번째 수 - 정렬](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
-  
-  - [모의고사 - 완전탐색](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
 
   - [폰켓몬 - 찾아라 프로그래밍 마에스터](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
 
@@ -95,6 +95,8 @@
   - [비밀지도 - 2018 KAKAO BLIND RECRUITMENT](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
 
   - [실패율 - 2019 KAKAO BLIND RECRUITMENT](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8)
+
+  - [키패드 누르기 - 2020 카카오 인턴십](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0)
   
   </div>
   </details>
