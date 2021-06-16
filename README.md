@@ -98,6 +98,8 @@
 
   - [신규 아이디 추천 - 2021 KAKAO BLIND RECRUITMENT](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C)
 
+  - [크레인 인형뽑기 게임 - 2019 카카오 개발자 겨울 인턴십](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84)
+
   - [키패드 누르기 - 2020 카카오 인턴십](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0)
 
   - [로또의 최고 순위와 최저 순위 - 2021 Dev-Matching: 웹 백엔드 개발자(상반기)](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84)
