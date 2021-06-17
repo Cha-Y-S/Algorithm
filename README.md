@@ -88,6 +88,8 @@
   
   - [소수만들기 - Summer/Winter Coding(~2018)](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+  - [예산 - Summer/Winter Coding(~2018)](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%98%88%EC%82%B0)
+
   - [폰켓몬 - 찾아라 프로그래밍 마에스터](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
 
   - [다트게임 - 2018 KAKAO BLIND RECRUITMENT](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84)
