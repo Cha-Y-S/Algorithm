@@ -75,6 +75,8 @@
   - [K번째 수 - 정렬](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
   
   - [모의고사 - 완전탐색](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
+
+  - [체육복 - 탐욕법(Greedy)](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
   
   - [3진법 뒤집기 - 월간 코드 챌린지 시즌 1](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0)
 
