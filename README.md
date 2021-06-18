@@ -119,8 +119,6 @@
   </div>
   </details>
 
----
-
   <details>
   <summary>Level 2 문제 보기</summary>
   <div markdown="1">
@@ -130,8 +128,6 @@
   </div>
   </details>
 
----
-
   <details>
   <summary>Level 3 문제 보기</summary>
   <div markdown="1">
@@ -140,8 +136,6 @@
 
   </div>
   </details>
-
----
 
   <details>
   <summary>Level 4 문제 보기</summary>
