@@ -123,6 +123,8 @@
   <summary>Level 2 문제 보기</summary>
   <div markdown="1">
 
+  - [최솟값 만들기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
   - [피보나치 수 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98)
   
   - [짝지어 제거하기 - 2017 팁스타운](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
