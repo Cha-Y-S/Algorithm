@@ -76,3 +76,16 @@
       queue.push(queue.front());
       queue.pop();
       ```
+
+### 다른 사람의 풀이
+
+  - `<algorithm>`의 `max_element()`이용
+
+  ```cpp
+  #include <algorithm>
+
+  int now_index = printer.front();  // index가 담긴 queue
+  if(priorities[now_index] != *max_element(priorities.begin(), priorities.end())){
+    ...
+  }
+  ```
