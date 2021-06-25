@@ -127,6 +127,8 @@
 
   - [피보나치 수 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98)
 
+  - [행렬의 곱셈 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88)
+
   - [프린터 - 스택/큐](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%ED%94%84%EB%A6%B0%ED%84%B0)
   
   - [짝지어 제거하기 - 2017 팁스타운](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
