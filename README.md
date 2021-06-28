@@ -132,6 +132,8 @@
   - [행렬의 곱셈 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88)
 
   - [프린터 - 스택/큐](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%ED%94%84%EB%A6%B0%ED%84%B0)
+
+  - [더 맵게 - 힙(Heap)](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C)
   
   - [짝지어 제거하기 - 2017 팁스타운](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
