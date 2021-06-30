@@ -125,6 +125,8 @@
 
   - [다음 큰 숫자 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90)
 
+  - [최댓값과 최솟값 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92)
+
   - [최솟값 만들기 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
   - [피보나치 수 - 연습문제](https://github.com/Cha-Y-S/Algorithm/tree/main/Programmers-Level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98)
