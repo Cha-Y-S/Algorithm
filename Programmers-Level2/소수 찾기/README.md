@@ -81,3 +81,34 @@
     - `unique`함수는 중복되는 모든 값들을 쓰레기 값으로 처리 후 vector의 가장 뒤로 보낸 후, 쓰레기 값들이 시작되는 첫 번째 `iterator`를 반환함
 
   - 이후, 주어진 문자열로부터 생성 가능한 모든 숫자들에 대해 소수 판별 과정 진행
+
+### 다른 사람의 풀이
+
+``` cpp
+int solution(string numbers) {
+    int answer = 0;
+
+    vector<int> possibleNumber;
+    sort(numbers.begin(), numbers.end());
+    do {
+        for (int i = 0; i < numbers.size(); i++)
+        {
+            possibleNumber.push_back(stoi(numbers.substr(0, i + 1)));
+        }
+    } while (next_permutation(numbers.begin(), numbers.end()));
+
+    sort(possibleNumber.begin(), possibleNumber.end());
+    possibleNumber.erase(unique(possibleNumber.begin(), possibleNumber.end()), possibleNumber.end());
+
+
+    for (int i = 0; i < possibleNumber.size(); i++)
+    {
+        if (IsPrime(possibleNumber[i]))
+            answer++;
+    }
+
+    return answer;
+}
+```
+
+  - 나의 경우 문자열 중 일부를 추출하기 위해 `bool`형 `vector`를 선언 후 `next_permutation`을 두 번 수행해 모든 경우의 수를 추출했지만, 해당 방법은 전체 문자열에 대해 `next_permutation`을 수행 후 매 수행마다 `substr`로 일부를 추출 후 중복을 제거하는 방법
