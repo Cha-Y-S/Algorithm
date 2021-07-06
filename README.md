@@ -135,6 +135,8 @@
 
   - [기능개발 - 스택/큐](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)
 
+  - [주식가격 - 스택/큐](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9)
+
   - [프린터 - 스택/큐](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%ED%94%84%EB%A6%B0%ED%84%B0)
 
   - [더 맵게 - 힙(Heap)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C)
