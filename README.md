@@ -175,7 +175,7 @@
   </details>
 
   <details>
-  <summary>Bakjoon Graph</summary>
+  <summary>Baekjoon Graph</summary>
   <div markdown = "1">
 
   - [[1260]DFS와 BFS - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1260%5DDFS%EC%99%80%20BFS)
