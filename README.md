@@ -182,5 +182,7 @@
 
   - [[1260]DFS와 BFS - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1260%5DDFS%EC%99%80%20BFS)
 
+  - [[2178]미로 탐색 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2178%5D%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89)
+
   </div>
   </details>
