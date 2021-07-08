@@ -59,7 +59,7 @@ int bfs(vector<vector<bool>> matrix, int dx, int dy) {
       if (isInMatrix(dx, dy, nx, ny)) {
         // New location is inside on matrix
         if (!visited[nx][ny] && matrix[nx][ny]) {
-          // New location can go next step
+          // Current location can go next step
           // Store new location's total step from starting location
           q.push(make_pair(nx, ny));
           visited[nx][ny] = visited[cx][cy] + 1;
