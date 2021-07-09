@@ -49,8 +49,8 @@
     <td align = center>
       <table>
         <tr>
-          <td align = center cols-span = "3">6</td>
-          <td align = center cols-span = "3">4</td> 
+          <td align = center colspan = "3">6</td>
+          <td align = center colspan = "3">4</td> 
         </tr>
         <tr>
           <td align = center>0</td>
@@ -99,8 +99,8 @@
     <td align = center>
       <table>
         <tr>
-          <td align = center cols-span = "3">6</td>
-          <td align = center cols-span = "3">4</td> 
+          <td align = center colspan = "3">6</td>
+          <td align = center colspan = "3">4</td> 
         </tr>
         <tr>
           <td align = center>0</td>
@@ -149,8 +149,8 @@
     <td align = center>
       <table>
         <tr>
-          <td align = center cols-span = "3">6</td>
-          <td align = center cols-span = "3">4</td> 
+          <td align = center colspan = "3">6</td>
+          <td align = center colspan = "3">4</td> 
         </tr>
         <tr>
           <td align = center>1</td>
@@ -199,8 +199,8 @@
     <td align = center>
       <table>
         <tr>
-          <td align = center cols-span = "2">5</td>
-          <td align = center cols-span = "3">5</td> 
+          <td align = center colspan = "2">5</td>
+          <td align = center colspan = "3">5</td> 
         </tr>
         <tr>
           <td align = center>-1</td>
@@ -252,8 +252,8 @@
     <td align = center>
       <table>
         <tr>
-          <td align = center cols-span = "2">2</td>
-          <td align = center cols-span = "2">2</td> 
+          <td align = center colspan = "2">2</td>
+          <td align = center colspan = "2">2</td> 
         </tr>
         <tr>
           <td align = center>1</td>
