@@ -143,6 +143,8 @@
 
   - [프린터 - 스택/큐](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%ED%94%84%EB%A6%B0%ED%84%B0)
 
+  - [H-Index - 정렬](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/H-Index)
+
   - [더 맵게 - 힙(Heap)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C)
   
   - [소수 찾기 - 완전탐색](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)
