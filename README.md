@@ -125,6 +125,8 @@
   <summary>Programmers Level 2 문제 보기</summary>
   <div markdown="1">
 
+  - [124 나라의 숫자 - 연습문제](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90)
+
   - [JadenCase 문자열 만들기 - 연습문제](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
   - [다음 큰 숫자 - 연습문제](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90)
