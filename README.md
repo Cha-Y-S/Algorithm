@@ -200,6 +200,8 @@
 
   - [[2178]미로 탐색 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2178%5D%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89)
 
+  - [[2667]단지번호붙이기 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2667%5D%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0)
+
   - [[7576]토마토 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B7576%5D%ED%86%A0%EB%A7%88%ED%86%A0)
 
   </div>
