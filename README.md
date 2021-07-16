@@ -165,7 +165,9 @@
 
   - [짝지어 제거하기 - 2017 팁스타운](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
-  - [캐시 - 2018 KAKAO BLIND RECUIRTMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%BA%90%EC%8B%9C)
+  - [캐시 - 2018 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%BA%90%EC%8B%9C)
+
+  - [문자열 압축 - 2020 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95)
 
   - [영어 끝말잇기 - Summer/Winter Coding(~2018)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0)
 
