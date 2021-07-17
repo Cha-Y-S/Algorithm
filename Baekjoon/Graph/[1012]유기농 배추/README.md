@@ -56,7 +56,7 @@
     <td align = center>0</td>
     <td align = center>0</td>
     <td align = center>0</td>
-    <td align = center style ="font-weight:bold">1</td>
+    <td align = center font-weight = bold>1</td>
     <td align = center>0</td>
     <td align = center>0</td>
     <td align = center>0</td>
