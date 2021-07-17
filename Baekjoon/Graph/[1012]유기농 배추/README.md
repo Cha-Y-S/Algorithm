@@ -16,8 +16,8 @@
 
 <table>
   <tr>
-    <td align = center style ="font-weight:bold">1</td>
-    <td align = center style ="font-weight:bold">1</td>
+    <td align = center><b>1</b></td>
+    <td align = center><b>1</b></td>
     <td align = center>0</td>
     <td align = center>0</td>
     <td align = center>0</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td align = center>0</td>
-    <td align = center style ="font-weight:bold">1</td>
+    <td align = center><b>1</b></td>
     <td align = center>0</td>
     <td align = center>0</td>
     <td align = center>0</td>
@@ -44,7 +44,7 @@
     <td align = center>0</td>
     <td align = center>0</td>
     <td align = center>0</td>
-    <td align = center style ="font-weight:bold">1</td>
+    <td align = center><b>1</b></td>
     <td align = center>0</td>
     <td align = center>0</td>
     <td align = center>0</td>
@@ -56,7 +56,7 @@
     <td align = center>0</td>
     <td align = center>0</td>
     <td align = center>0</td>
-    <td align = center font-weight = bold>1</td>
+    <td align = center><b>1</b></td>
     <td align = center>0</td>
     <td align = center>0</td>
     <td align = center>0</td>
@@ -66,26 +66,26 @@
   <tr>
     <td align = center>0</td>
     <td align = center>0</td>
-    <td align = center style ="font-weight:bold">1</td>
-    <td align = center style ="font-weight:bold">1</td>
+    <td align = center><b>1</b></td>
+    <td align = center><b>1</b></td>
     <td align = center>0</td>
     <td align = center>0</td>
     <td align = center>0</td>
-    <td align = center style ="font-weight:bold">1</td>
-    <td align = center style ="font-weight:bold">1</td>
-    <td align = center style ="font-weight:bold">1</td>
+    <td align = center><b>1</b></td>
+    <td align = center><b>1</b></td>
+    <td align = center><b>1</b></td>
   </tr>
   <tr>
     <td align = center>0</td>
     <td align = center>0</td>
     <td align = center>0</td>
     <td align = center>0</td>
-    <td align = center style ="font-weight:bold">1</td>
+    <td align = center><b>1</b></td>
     <td align = center>0</td>
     <td align = center>0</td>
-    <td align = center style ="font-weight:bold">1</td>
-    <td align = center style ="font-weight:bold">1</td>
-    <td align = center style ="font-weight:bold">1</td>
+    <td align = center><b>1</b></td>
+    <td align = center><b>1</b></td>
+    <td align = center><b>1</b></td>
   </tr>
 </table>
 
