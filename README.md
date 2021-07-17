@@ -198,6 +198,8 @@
   <summary>Baekjoon Graph</summary>
   <div markdown = "1">
 
+  - [[1012]유기농 배추 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1012%5D%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94)
+
   - [[1260]DFS와 BFS - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1260%5DDFS%EC%99%80%20BFS)
 
   - [[2178]미로 탐색 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2178%5D%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89)
