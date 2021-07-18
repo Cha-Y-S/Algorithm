@@ -159,6 +159,8 @@
 
   - [큰 수 만들기 - 탐욕법(Greedy)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+  - [전화번호 목록 - 해시](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D)
+
   - [더 맵게 - 힙(Heap)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C)
   
   - [게임 맵 최단거리 - 찾아라 프로그래밍 마에스터](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
