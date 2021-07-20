@@ -1,4 +1,4 @@
-# 최댓값과 최솟값 - 연습문제
+# [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=cpp) - 2019 카카오 개발자 겨울 인턴십
 
 ### 문제 설명
 
