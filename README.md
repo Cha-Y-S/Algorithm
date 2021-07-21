@@ -167,7 +167,7 @@
 
   - [이진 변환 반복하기 - 월간 코드 챌린지 시즌 1](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0)
 
-  - [예상 대진표 - 2017 팁스타운](https://programmers.co.kr/learn/courses/30/lessons/12985)
+  - [예상 대진표 - 2017 팁스타운](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C)
 
   - [짝지어 제거하기 - 2017 팁스타운](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
