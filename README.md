@@ -235,6 +235,8 @@
 
   - [[1001]A+B - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1001%5DA-B)
 
+  - [[10250]ACM 호텔 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B10250%5DACM%20%ED%98%B8%ED%85%94)
+
   - [[14681]사분면 고르기 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B14681%5D%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)
 
   </div>
