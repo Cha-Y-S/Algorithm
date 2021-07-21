@@ -226,3 +226,16 @@
 
   </div>
   </details>
+
+  <details>
+  <summary>Baekjoon Math</summary>
+  <div markdown = "1">
+
+  - [[1000]A+B - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1000%5DA%2BB)
+
+  - [[1001]A+B - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1001%5DA-B)
+
+  - [[14681]사분면 고르기 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B14681%5D%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)
+
+  </div>
+  </details>
