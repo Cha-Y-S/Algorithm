@@ -1,4 +1,4 @@
-# [A+B](https://www.acmicpc.net/problem/1001)
+# [A-B](https://www.acmicpc.net/problem/1001)
 
 <div align = center>
 
