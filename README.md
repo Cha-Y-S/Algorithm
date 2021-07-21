@@ -222,7 +222,16 @@
 
   - [[7576]토마토 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B7576%5D%ED%86%A0%EB%A7%88%ED%86%A0)
 
-  - [[11724]연결 요소의 개수 - Silver2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11724%5D%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98)
+  - [[11724]연결 요소의 개수 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11724%5D%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98)
+
+  </div>
+  </details>
+
+  <details>
+  <summary>Baekjoon Sorting</summary>
+  <div markdown = "1">
+
+  - [[2750]수 정렬하기 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2750%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
 
   </div>
   </details>
