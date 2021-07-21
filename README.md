@@ -145,6 +145,8 @@
 
   - [기능개발 - 스택/큐](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)
 
+  - [다리를 지나는 트럭 - 스택/큐](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD)
+
   - [주식가격 - 스택/큐](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9)
 
   - [프린터 - 스택/큐](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%ED%94%84%EB%A6%B0%ED%84%B0)
