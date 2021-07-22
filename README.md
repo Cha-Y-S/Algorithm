@@ -220,6 +220,8 @@
 
   - [[2667]단지번호붙이기 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2667%5D%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0)
 
+  - [[4963]섬의 개수 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B4963%5D%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98)
+
   - [[7576]토마토 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B7576%5D%ED%86%A0%EB%A7%88%ED%86%A0)
 
   - [[11724]연결 요소의 개수 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11724%5D%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98)
