@@ -1,4 +1,4 @@
-# [수 정렬하기](https://www.acmicpc.net/problem/11399)
+# [ATM](https://www.acmicpc.net/problem/11399)
 
 <div align = center>
 
