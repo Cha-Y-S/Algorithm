@@ -145,6 +145,8 @@
 
   - [기능개발 - 스택/큐](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)
 
+  - [다리를 지나는 트럭 - 스택/큐](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD)
+
   - [주식가격 - 스택/큐](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9)
 
   - [프린터 - 스택/큐](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%ED%94%84%EB%A6%B0%ED%84%B0)
@@ -166,6 +168,8 @@
   - [게임 맵 최단거리 - 찾아라 프로그래밍 마에스터](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
 
   - [이진 변환 반복하기 - 월간 코드 챌린지 시즌 1](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0)
+
+  - [예상 대진표 - 2017 팁스타운](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C)
 
   - [짝지어 제거하기 - 2017 팁스타운](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
@@ -216,9 +220,41 @@
 
   - [[2667]단지번호붙이기 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2667%5D%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0)
 
+  - [[4963]섬의 개수 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B4963%5D%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98)
+
   - [[7576]토마토 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B7576%5D%ED%86%A0%EB%A7%88%ED%86%A0)
 
-  - [[11724]연결 요소의 개수 - Silver2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11724%5D%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98)
+  - [[11724]연결 요소의 개수 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11724%5D%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98)
+
+  </div>
+  </details>
+
+  <details>
+  <summary>Baekjoon Sorting</summary>
+  <div markdown = "1">
+
+  - [[2750]수 정렬하기 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2750%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+
+  - [[2751]수 정렬하기 2 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2751%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202)
+
+  - [[10989]수 정렬하기 3 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B10989%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%203)
+
+  - [[11399]ATM - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B11399%5DATM)
+
+  </div>
+  </details>
+
+  <details>
+  <summary>Baekjoon Math</summary>
+  <div markdown = "1">
+
+  - [[1000]A+B - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1000%5DA%2BB)
+
+  - [[1001]A+B - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1001%5DA-B)
+
+  - [[10250]ACM 호텔 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B10250%5DACM%20%ED%98%B8%ED%85%94)
+
+  - [[14681]사분면 고르기 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B14681%5D%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)
 
   </div>
   </details>
