@@ -207,6 +207,15 @@
   </details>
 
   <details>
+  <summary>Baekjoon Greedy</summary>
+  <div markdown="1">
+
+  - [[2839]설탕 배달 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Greedy/%5B2839%5D%EC%84%A4%ED%83%95%20%EB%B0%B0%EB%8B%AC)
+
+  </div>
+  </details>
+
+  <details>
   <summary>Baekjoon Graph</summary>
   <div markdown = "1">
 
