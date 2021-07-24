@@ -206,6 +206,15 @@
   </div>
   </details>
 
+  <detials>
+  <summary>Baekjoon Dynamic Programming</summary>
+  <div markdown = "1">
+
+  - [[1463]1로 만들기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1463%5D1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
+  </div>
+  </details>
+
   <details>
   <summary>Baekjoon Greedy</summary>
   <div markdown="1">
