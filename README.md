@@ -206,7 +206,7 @@
   </div>
   </details>
 
-  <detials>
+  <details>
   <summary>Baekjoon Dynamic Programming</summary>
   <div markdown = "1">
 
