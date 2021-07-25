@@ -131,6 +131,8 @@
 
   - [다음 큰 숫자 - 연습문제](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90)
 
+  - [숫자의 표현 - 연습문제](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84)
+
   - [올바른 괄호 - 연습문제](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8)
 
   - [최댓값과 최솟값 - 연습문제](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92)
