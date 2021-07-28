@@ -297,6 +297,19 @@
   </details>
 
   <details>
+  <summary>Baekjoon Brute Force</summary>
+  <div markdown = "1">
+
+  - [[1065]한수 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1065%5D%ED%95%9C%EC%88%98)
+
+  - [[2231]분해합 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B2231%5D%EB%B6%84%ED%95%B4%ED%95%A9)
+
+  - [[2798]블랙잭 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B2798%5D%EB%B8%94%EB%9E%99%EC%9E%AD)
+
+  </div>
+  </details>
+
+  <details>
   <summary>Baekjoon Math</summary>
   <div markdown = "1">
 
