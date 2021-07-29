@@ -46,5 +46,15 @@
 
 ### 문제 접근
 
+  - Dynamic Programming 문제
+
   - [ICPC - RGB거리](https://www.acmicpc.net/problem/1149)와 비슷한 문제
+
+  - 2차원 벡터 `conquer` 선언
+
+    - `conquer[i][0]`: i번째 행의 첫 번째 땅까지 도달하는데 가능한 최고점 저장
+
+  - 각 행의 인덱스 별로, 이전 행의 같은 인덱스를 제외한 나머지 요소들 중 최댓값을 선택한 후 현재 행 인덱스의 값을 더하면 됨
+
+    - ex) `conquer[i][0] = max(max(conquer[i-1][1], conquer[i-1][2]),conquer[i-1][3]) + land[i][0];`
 
