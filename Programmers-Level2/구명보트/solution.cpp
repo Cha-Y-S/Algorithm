@@ -1,4 +1,5 @@
 #include <algorithm>
+#include <iostream>
 #include <string>
 #include <vector>
 
@@ -6,9 +7,21 @@ using namespace std;
 
 int solution(vector<int> people, int limit) {
   int answer = 0;
-  int curWeight = 0;
+  int start = 0;
+  int end = people.size() - 1;
 
   sort(people.begin(), people.end(), greater<int>());
+
+  while (start <= end) {
+    if (people[start] + people[end] <= limit) {
+      start++;
+      end--;
+    } else {
+      start++;
+    }
+
+    answer++;
+  }
 
   return answer;
 }
