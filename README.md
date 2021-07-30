@@ -165,6 +165,8 @@
 
   - [가장 큰 수 - 정렬](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)
 
+  - [구명보트 - 탐욕법(Greedy)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8)
+
   - [큰 수 만들기 - 탐욕법(Greedy)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
   - [전화번호 목록 - 해시](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D)
