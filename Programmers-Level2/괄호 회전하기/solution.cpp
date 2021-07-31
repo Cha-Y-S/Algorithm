@@ -32,6 +32,7 @@ int solution(string s) {
 
     answer = st.empty() ? answer + 1 : answer;
 
+    // Rotate the bracket string
     copy.push_back(copy[0]);
     copy.erase(copy.begin(), copy.begin() + 1);
   }
