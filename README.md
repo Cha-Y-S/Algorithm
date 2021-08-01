@@ -203,6 +203,8 @@
 
   - [점프와 순간 이동 - Summer/Winter Coding(~2018)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99)
 
+  - [멀쩡한 사각형 - Summer/Winter Coding(2019)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95)
+
   </div>
   </details>
 
