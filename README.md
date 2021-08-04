@@ -199,6 +199,8 @@
 
   - [튜플 - 2019 카카오 개발자 겨울 인턴십](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%ED%8A%9C%ED%94%8C)
 
+  - [거리두기 확인하기 - 2021 카카오 채용연계형 인턴십](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+
   - [배달 - Summer/Winter Coding(~2018)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%B0%B0%EB%8B%AC)
 
   - [영어 끝말잇기 - Summer/Winter Coding(~2018)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0)
