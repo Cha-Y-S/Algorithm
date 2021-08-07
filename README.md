@@ -118,6 +118,8 @@
 
   - [로또의 최고 순위와 최저 순위 - 2021 Dev-Matching: 웹 백엔드 개발자(상반기)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84)
   
+  - [부족한 금액 계산하기 - 위클리 챌린지(1주차)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)
+
   </div>
   </details>
 
@@ -185,6 +187,8 @@
 
   - [짝지어 제거하기 - 2017 팁스타운](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
+  - [뉴스 클러스터링 - 2018 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81)
+
   - [캐시 - 2018 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%BA%90%EC%8B%9C)
 
   - [파일명 정렬- 2018 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC)
@@ -196,6 +200,10 @@
   - [문자열 압축 - 2020 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95)
 
   - [튜플 - 2019 카카오 개발자 겨울 인턴십](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%ED%8A%9C%ED%94%8C)
+
+  - [거리두기 확인하기 - 2021 카카오 채용연계형 인턴십](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+
+  - [방문 길이 - Summer/Winter Coding(~2018)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4)
 
   - [배달 - Summer/Winter Coding(~2018)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%B0%B0%EB%8B%AC)
 

@@ -77,24 +77,44 @@
 
 ### 문제 접근
 
-  - 주어진 `n`에 따라 2차원 배열에서 가지는 가장 큰 값을 산출
+  - C++ STL `<map>`, `<set>` 사용
+
+  - `map`에는 문제에서 주어지는 `U, D, R, L`에 대해 변경할 좌표값이 `U, D, R, L`을 `key`값으로 `pair`형태로 저장되어 있음
+  
+  - `set`은 중복된 값을 저장하지 않음
+
+    - `current location -> new location`
+    
+    - `new location -> current location`
+    
+    - 해당 `path` 두 개를 저장해 두면, 한 가지 `path`에 대해 방향성이 없는 `path` 저장 가능
+
+  - 첫 번째 시도
 
     ```cpp
-    for(int i = 0 ; i < n; i++){
-      max += i + 1;
+    set<pair<pair<int, int>, pair<int, int>>>::iterator it = visited.find(road);
+
+    // If the path is not in the set
+    if (it == visited.end()) {
+      visited.insert(road);
+      road.first = new_loc;
+      road.second = cur_loc;
+      visited.insert(road);
+      answer++;
     }
     ```
 
-  - `x`와 `y`를 선언한 후, 2차원 배열에 차례대로 값을 채워넣음
+      - `set`에 경로가 이미 존재하는 지 확인 후, insert 하였음
 
-    - 1)&nbsp;수직방향으로 값을 채워넣음
+      - but, `set`에 이미 값이 존재하는 경우, 중복을 제거하기 때문에 해당 과정 불필요
 
-    - 2)&nbsp;수평방향으로 값을 채워넣음
+  - 발전시킨 코드
 
-    - 3)&nbsp;대각선방향으로 값을 채워넣음
+    ```cpp
+    // Insert the path into visited set
+    // If the path is already in the set, duplicate path will be removed
+    visited.insert(road = {cur_loc, new_loc});
+    visited.insert(road = {new_loc, cur_loc});
+    ```
 
-    - 각 단계별 반복마다 `x`와 `y`의 값이 배열 scope를 벗어나는지 검사
-
-    - 새로 채워넣어야 할 위치에 이미 값이 존재하는지도 검사
-
-    - 각 step이 끝날 때 마다 `x`와 `y`를 조정하여 새로 값을 채워야할 location 설정
+  - `set`에는 중복된 값이 저장되어 있지 않고, `set`에 insert 하기 전, 이미 이동이 불가능한 좌표에 대해선 예외 처리를 해주었으므로 답은 `size of set / 2`
