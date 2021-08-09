@@ -120,6 +120,8 @@
   
   - [부족한 금액 계산하기 - 위클리 챌린지(1주차)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)
 
+  - [상호 평가 - 위클리 챌린지(2주차)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EC%83%81%ED%98%B8%20%ED%8F%89%EA%B0%80)
+
   </div>
   </details>
 
