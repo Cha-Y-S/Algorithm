@@ -56,3 +56,19 @@ arr이 매개변수로 주어집니다. 위와 같은 방식으로 arr을 압축
 
 ### 문제 접근
 
+  - 백 트래킹(Back Tracking) 사용
+
+  - `[0][0]`에서 시작해 2차원 벡터의 `size`만큼의 행/열을 검사하면서 다른 숫자가 있다면 쿼드 분해
+
+    ```cpp
+    // 좌측 상단
+    back-tracking(x, y, s / 2);
+    // 우측 상단 
+    back-tracking(x, y + s / 2, s / 2);
+    // 좌측 하단
+    back-tracking(x + s / 2, y, s / 2);
+    // 우측 하단
+    back-tracking(x + s / 2, y + s / 2, s / 2);
+    ```
+
+  - 이 때, `size`만큼의 행/열을 검사하고, `S`영역에 포함된 숫자들이 모두 같은 경우 `zero_cnt` or `one_cnt`를 1 카운트 함
