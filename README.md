@@ -135,6 +135,8 @@
 
   - [JadenCase 문자열 만들기 - 연습문제](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+  - [가장 큰 정사각형 찾기 - 연습문제](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0)
+
   - [다음 큰 숫자 - 연습문제](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90)
 
   - [땅따먹기 - 연습문제](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0)
