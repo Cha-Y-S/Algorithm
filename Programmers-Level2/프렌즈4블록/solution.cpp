@@ -7,6 +7,7 @@ int solution(int m, int n, vector<string> board) {
   int answer = 0;
   bool isRemoved = true;
 
+  // Looping until there are no block that can be removed
   while (isRemoved) {
     vector<vector<bool>> visited(m, vector<bool>(n, false));
     isRemoved = false;
@@ -14,6 +15,7 @@ int solution(int m, int n, vector<string> board) {
     for (int i = 0; i < m - 1; i++) {
       for (int j = 0; j < n - 1; j++) {
         if (!board[i][j]) continue;
+        // Check whether 2 x 2 block can be made based on board[i][j]
         if ((board[i][j] == board[i + 1][j]) && (board[i][j] == board[i][j + 1]) && (board[i][j] == board[i + 1][j + 1])) {
           vector<pair<int, int>> dir = {{0, 0}, {1, 0}, {0, 1}, {1, 1}};
           for (int k = 0; k < dir.size(); k++)
@@ -23,7 +25,7 @@ int solution(int m, int n, vector<string> board) {
       }
     }
 
-    // Remove all block of 2 x 2 and Drop that block
+    // Remove block of 2 x 2 that can be removed and Drop that block
     for (int i = 0; i < visited.size(); i++) {
       for (int j = 0; j < visited[i].size(); j++) {
         if (visited[i][j]) {
