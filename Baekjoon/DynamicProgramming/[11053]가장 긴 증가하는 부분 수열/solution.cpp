@@ -1,5 +1,5 @@
+#include <algorithm>
 #include <iostream>
-#include <stack>
 #include <vector>
 
 using namespace std;
@@ -21,8 +21,6 @@ int main() {
     cin >> seq[i];
   }
 
-  // vector<int> seq = {10, 20, 10, 30, 20, 50};
-
   cout << solution(seq) << endl;
 
   return 0;
@@ -30,7 +28,17 @@ int main() {
 
 int solution(vector<int> seq) {
   int answer = 0;
-  vector<int> dp(seq.size(), 0);
+  vector<int> dp(seq.size(), 1);
+
+  for (int i = 1; i < seq.size(); i++) {
+    for (int j = i - 1; j >= 0; j--) {
+      if (seq[i] > seq[j]) {
+        dp[i] = max(dp[i], dp[j] + 1);
+      }
+    }
+  }
+
+  answer = *max_element(dp.begin(), dp.end());
 
   return answer;
 }
