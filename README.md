@@ -195,6 +195,8 @@
 
   - [짝지어 제거하기 - 2017 팁스타운](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
+  - [n진수 게임 - 2018 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84)
+
   - [뉴스 클러스터링 - 2018 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81)
 
   - [압축 - 2018 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%95%95%EC%B6%95)
