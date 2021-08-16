@@ -68,6 +68,8 @@
 
   - [큰 수 만들기 - 탐욕법(Greedy)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+  - [조이스틱 - 탐욕법(Greedy)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1)
+
 ---
 
 ### 해시
