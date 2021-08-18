@@ -46,4 +46,66 @@ ex) 완성해야 하는 이름이 세 글자면 AAA, 네 글자면 AAAA
 
 ### 문제 접근
 
-  
+  - `name`이 가지고 있는 문자들 중 `A`가 아닌 문자들의 인덱스와 현재 위치(`loc`)으로부터의 거리를 계산
+
+  - 해당 정보를 `vector<pair<int, int>> not_a`에 저장 후, 거리를 기준으로 `sorting` 진행
+
+    - 거리가 같다면, 낮은 인덱스가 우선순위를 가지도록 함
+
+  - `not_a` 벡터의 첫 번째 값을 빼면서 현재 위치를 갱신하고 `left / right` 이동에 대한 이동 횟수를 더한 후, 현재 위치의 문자에 대한 `up / down` 이동에 대한 횟수도 더함
+
+  - `not_a`에 담긴 남은 문자들의 거리를 변경된 현재 위치를 기반으로 갱신 후 `sorting`
+
+    - 해당 동작은 거리값을 기반으로 우선순위를 주기 때문에 `priority_queue`와 작동히 유사하다고 볼 수 있지만, `queue`에 담긴 요소들의 값 갱신이 어렵기 때문에 이와 같이 작성함
+
+  - `not_a`가 비어질 때까지 반복
+
+---
+
+### 다른 사람의 풀이
+
+```cpp
+#include <string>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+int LUT[] = { 0,1,2,3,4,5,6,7,8,9,10,11,12,13,12,11,10,9,8,7,6,5,4,3,2,1 };
+
+int solution(string name) {
+    int answer = 0;
+    for (auto ch : name)
+        answer += LUT[ch - 'A'];
+    int len = name.length();
+    int left_right = len - 1;
+    for (int i = 0; i < len; ++i) {
+        int next_i = i + 1;
+        while (next_i < len && name[next_i] == 'A')
+            next_i++;
+        left_right = min(left_right, i + len - next_i + min(i, len - next_i));
+    }
+    answer += left_right;
+    return answer;
+}
+```
+
+  - `up / down`에 대한 갯수를 미리 더해둔 후, 좌 / 우로 움직인 최소 횟수를 더하는 방식
+
+---
+
+### 추가 Comment
+
+  - 테스트 케이스 `"CANAAAAANAN"`에 대해 최소 이동 횟수가 49인지, 48인지에 대한 의견 차이가 발생한 것을 확인
+
+  - 해당 테스트 케이스에서의 `up/down`의 최소 횟수는 41임
+
+  - 49: 왼쪽으로 1번 -> 왼쪽으로 2번 -> 오른쪽으로 5번 => 총 8번 이동
+
+  - 48: 오른쪽으로 2번 -> 왼쪽으로 3번 -> 왼쪽으로 2번 => 총 7번 이동
+
+  - 가장 적게 이동하는 횟수를 생각하면 48이 정답일 것
+
+  - But, `Greedy` 알고리즘의 특성 상 `언제나 최적해를 만족하진 않을 수 있음`
+
+  - 해당 문제가 `Greedy` 문제이기 때문에, 본인은 `49`가 `Greedy`하게 접근한 최소 이동 횟수라고 생각함
