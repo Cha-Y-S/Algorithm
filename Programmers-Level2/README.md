@@ -140,6 +140,8 @@
 
   - [문자열 압축 - 2020 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95)
 
+  - [메뉴 리뉴얼 - 2021 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC)
+
   - [튜플 - 2019 카카오 개발자 겨울 인턴십](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%ED%8A%9C%ED%94%8C)
 
   - [수식 최대화 - 2020 카카오 인턴십](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94)
