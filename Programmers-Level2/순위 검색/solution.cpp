@@ -1,3 +1,4 @@
+#include <algorithm>
 #include <iostream>
 #include <sstream>
 #include <string>
@@ -5,121 +6,140 @@
 
 using namespace std;
 
-struct Applicant {
-  string lang;
-  string job;
-  string career;
-  string food;
-  int point;
-};
-
-void printApplicant(vector<Applicant> app);
+int mappingInfo(string input);
+void mappingLanguage(string lang, int& s, int& e);
+void mappingJob(string job, int& s, int& e);
+void mappingCareer(string career, int& s, int& e);
+void mappingFood(string food, int& s, int& e);
 
 vector<int> solution(vector<string> info, vector<string> query) {
   vector<int> answer;
-  vector<Applicant> app;
-  stringstream st;
+  vector<int> db[3][2][2][2];
 
+  // Parse applicant's information from info vector and Store it into database
   for (int i = 0; i < info.size(); i++) {
-    Applicant person;
+    stringstream st;
     st.str(info[i]);
-    st >> person.lang >> person.job >> person.career >> person.food >> person.point;
-    app.push_back(person);
-    st.clear();
+
+    while (!st.eof()) {
+      vector<int> info_index;
+      int point;
+      for (int i = 0; i < 4; i++) {
+        string input;
+        st >> input;
+        info_index.push_back(mappingInfo(input));
+      }
+
+      st >> point;
+
+      db[info_index[0]][info_index[1]][info_index[2]][info_index[3]].push_back(point);
+    }
   }
 
-  // printApplicant(app);
+  // Sort in order to perform binary search
+  for (int l = 0; l < 3; l++)
+    for (int j = 0; j < 2; j++)
+      for (int c = 0; c < 2; c++)
+        for (int f = 0; f < 2; f++)
+          sort(db[l][j][c][f].begin(), db[l][j][c][f].end());
 
   for (int i = 0; i < query.size(); i++) {
-    st.clear();
-    vector<Applicant> pass;
-    Applicant cond;
-    string temp;
+    // Parse condition from query and Convert to integer
+    stringstream st;
+    string lang, job, career, food, temp;
+    int point, sl, sj, sc, sf, el, ej, ec, ef;
     st.str(query[i]);
-    st >> cond.lang >> temp >> cond.job >> temp >> cond.career >> temp >> cond.food >> cond.point;
 
-    if (cond.lang == "-")
-      pass = app;
-    else {
-      for (int j = 0; j < app.size(); j++) {
-        if (cond.lang == app[j].lang) pass.push_back(app[j]);
-      }
-    }
+    st >> lang >> temp >> job >> temp >> career >> temp >> food >> point;
 
-    // printApplicant(pass);
+    // Get applicant's scope that satisfy each condition
+    mappingLanguage(lang, sl, el);
+    mappingJob(job, sj, ej);
+    mappingCareer(career, sc, ec);
+    mappingFood(food, sf, ef);
 
-    if (pass.size() == 0) {
-      answer.push_back(0);
-      continue;
-    }
+    int cnt = 0;
+    for (int l = sl; l < el; l++) {
+      for (int j = sj; j < ej; j++) {
+        for (int c = sc; c < ec; c++) {
+          for (int f = sf; f < ef; f++) {
+            int n = db[l][j][c][f].size();
+            if (!n) continue;
 
-    if (cond.job != "-") {
-      for (int j = 0; j < pass.size(); j++) {
-        if (cond.job != pass[j].job) {
-          pass.erase(pass.begin() + j, pass.begin() + j + 1);
-          j--;
+            vector<int>::iterator it = lower_bound(db[l][j][c][f].begin(), db[l][j][c][f].end(), point);
+
+            if (it == db[l][j][c][f].end()) continue;
+            cnt += n - (it - db[l][j][c][f].begin());
+          }
         }
       }
     }
 
-    if (pass.size() == 0) {
-      answer.push_back(0);
-      continue;
-    }
-
-    if (cond.career != "-") {
-      for (int j = 0; j < pass.size(); j++) {
-        if (cond.career != pass[j].career) {
-          pass.erase(pass.begin() + j, pass.begin() + j + 1);
-          j--;
-        }
-      }
-    }
-
-    if (pass.size() == 0) {
-      answer.push_back(0);
-      continue;
-    }
-
-    if (cond.food != "-") {
-      for (int j = 0; j < pass.size(); j++) {
-        if (cond.food != pass[j].food) {
-          pass.erase(pass.begin() + j, pass.begin() + j + 1);
-          j--;
-        }
-      }
-    }
-
-    // cout << "food" << endl;
-    // printApplicant(pass);
-
-    if (pass.size() == 0) {
-      answer.push_back(0);
-      continue;
-    }
-
-    for (int j = 0; j < pass.size(); j++) {
-      if (cond.point > pass[j].point) {
-        pass.erase(pass.begin() + j, pass.begin() + j + 1);
-        j--;
-      }
-    }
-
-    if (pass.size() == 0) {
-      answer.push_back(0);
-      continue;
-    }
-
-    answer.push_back(pass.size());
+    answer.push_back(cnt);
   }
 
   return answer;
 }
 
-void printApplicant(vector<Applicant> app) {
-  cout << "Lang\tJob\tCareer\tFood\tPoint" << endl;
-  for (int i = 0; i < app.size(); i++) {
-    cout << app[i].lang << "\t" << app[i].job << "\t" << app[i].career << "\t" << app[i].food << "\t" << app[i].point << endl;
-  }
-  cout << endl;
+int mappingInfo(string input) {
+  int result = 0;
+
+  if (input == "cpp" || input == "backend" || input == "junior" || input == "chicken")
+    result = 0;
+  else if (input == "python")
+    result = 2;
+  else
+    result = 1;
+
+  return result;
+}
+
+void mappingLanguage(string lang, int& s, int& e) {
+  if (lang == "-") {
+    s = 0;
+    e = 3;
+    return;
+  } else if (lang == "cpp")
+    s = 0;
+  else if (lang == "java")
+    s = 1;
+  else
+    s = 2;
+  e = s + 1;
+}
+
+void mappingJob(string job, int& s, int& e) {
+  if (job == "-") {
+    s = 0;
+    e = 2;
+    return;
+  } else if (job == "backend")
+    s = 0;
+  else
+    s = 1;
+  e = s + 1;
+}
+
+void mappingCareer(string career, int& s, int& e) {
+  if (career == "-") {
+    s = 0;
+    e = 2;
+    return;
+  } else if (career == "junior")
+    s = 0;
+  else
+    s = 1;
+  e = s + 1;
+}
+
+void mappingFood(string food, int& s, int& e) {
+  if (food == "-") {
+    s = 0;
+    e = 2;
+    return;
+  } else if (food == "chicken")
+    s = 0;
+  else
+    s = 1;
+  e = s + 1;
 }
