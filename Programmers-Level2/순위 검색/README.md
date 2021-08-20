@@ -124,3 +124,89 @@
 
 ### 문제 접근
 
+  - `info` 벡터를 파싱하여 각 분류 조건에 만족하는 지원자들의 점수 `vector` 구성(`db[3][2][2][2]`)
+
+  - `db`의 각 차원별로 sorting(이진 탐색을 위함)
+
+  - `query`에 담긴 각 string을 파싱하여 각 분류 조건에 만족하는 `scope`를 구함
+
+    - `language`: `[0:3]`, `-`인 경우, `scope`은 `0 ~ 3`
+
+    - `job`: `[0:2]`, `-`인 경우, `scope`은 `0 ~ 2`
+
+    - `career`: `[0:2]`, `-`인 경우, `scope`은 `0 ~ 2`
+
+    - `food`: `[0:2]`, `-`인 경우, `scope`은 `0 ~ 2`
+
+  - 만족하는 `scope`마다 `point`를 기준으로 `lower_bound`를 수행한 후, 각 조건을 만족하는 지원자의 수를 구함
+
+  - `query` 개수만큼 반복
+
+  - `<algorithm>`의 `lower_bound`, `upper_bound`
+
+    ```cpp
+    template <class ForwardIt, class T>
+    ForwardIt lower_bound(ForwardIt first, ForwardIt last, const T& value);
+    ForwardIt upper_bound(ForwardIt first, ForwardIt last, const T& value);
+    ```
+
+    - `lower_bound`: `value` 이상의 첫 번째 원소 반환
+
+      - ex) `data = {1, 1, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6}` => `4`가 시작되는 첫 번째 `iterator` 반환
+
+    - `upper_bound`: `value`를 초과하는 첫 번재 원소 반환
+      
+      - ex) `data = {1, 1, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6}` => `5`가 시작되는 첫 번째 `iterator` 반환
+
+    - `lower_bound`와 `upper_bound` 수행 전 원소들이 정렬되어 있어야 함
+---
+
+### 다른 사람의 풀이
+
+```cpp
+#include <string>
+#include <vector>
+#include <unordered_map>
+#include <algorithm>
+#include <sstream>
+
+using namespace std;
+
+const string ALL = "-";
+unordered_map<string, vector<int>> map;
+
+void insert(string* key, int mask, int point) {
+    string s = "";
+    for (int i = 0; i < 4; i++) {
+        s += (mask & (1 << i)) ? ALL : key[i];
+        map[s].push_back(point);
+    }
+}
+
+vector<int> solution(vector<string> info, vector<string> query) {
+    vector<int> answer;
+    string key[4], tmp;
+    int point;
+
+    for (auto& inf : info) {
+        istringstream iss(inf);
+        iss >> key[0] >> key[1] >> key[2] >> key[3] >> point;
+        for (int i = 0; i < 16; i++) insert(key, i, point);
+    }
+
+    for (auto& m : map) sort(m.second.begin(), m.second.end());
+
+    for (auto& que : query) {
+        istringstream iss(que);
+        iss >> key[0] >> tmp >> key[1] >> tmp >> key[2] >> tmp >> key[3] >>
+            point;
+        string s = key[0] + key[1] + key[2] + key[3];
+        vector<int>& v = map[s];
+        answer.push_back(v.end() - lower_bound(v.begin(), v.end(), point));
+    }
+
+    return answer;
+}
+```
+
+  - `hash` 이용
