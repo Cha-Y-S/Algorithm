@@ -142,6 +142,8 @@
 
   - [메뉴 리뉴얼 - 2021 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC)
 
+  - [순위 검색 - 2021 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89)
+
   - [튜플 - 2019 카카오 개발자 겨울 인턴십](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%ED%8A%9C%ED%94%8C)
 
   - [수식 최대화 - 2020 카카오 인턴십](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94)
