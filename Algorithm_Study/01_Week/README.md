@@ -11,7 +11,7 @@
 <summary>2021/08/25</summary>
 <div markdown = "1">
   
-  - [2312]수 복원하기 - Silver 2 : [문제](https://www.acmicpc.net/problem/2312) / [풀이] (https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2312%5D%EC%88%98%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0)
+  - [2312]수 복원하기 - Silver 2 : [문제](https://www.acmicpc.net/problem/2312) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2312%5D%EC%88%98%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0)
 
   - [2960]에라토스테네스의 체 - Silver 4 : [문제](https://www.acmicpc.net/problem/2960) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2960%5D%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4)
 
