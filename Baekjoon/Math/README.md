@@ -36,11 +36,17 @@
 
   - [[10869]사칙연산 - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B10869%5D%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
 
+  - [[10953]A+B - 6 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B10953%5DA%2BB%20-%206)
+
   - [[10998]A×B - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B10998%5DA%C3%97B)
 
   - [[11653]소인수분해 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B11653%5D%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)
 
   - [[14681]사분면 고르기 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B14681%5D%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)
+
+  - [[15740]A+B - 9 - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B15740%5DA%2BB%20-%209)
+
+  - [[15792]A/B - 2 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B15792%5DA%C3%B7B%20-%202)
 
   - [[17103]골든바흐 파티션 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B17103%5D%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%20%ED%8C%8C%ED%8B%B0%EC%85%98)
 
