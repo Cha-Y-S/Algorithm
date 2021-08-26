@@ -34,3 +34,16 @@
 
 </div>
 </details>
+
+<details>
+<summary>2021/08/27</summary>
+<div markdown = "1">
+  
+  - [1747]소수&팰린드롬 - Gold 5 : [문제](https://www.acmicpc.net/problem/1747) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1747%5D%EC%86%8C%EC%88%98%26%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)
+
+  - [3896]소수 사이 수열 - Silver 1 : [문제](https://www.acmicpc.net/problem/3896) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B3896%5D%EC%86%8C%EC%88%98%20%EC%82%AC%EC%9D%B4%20%EC%88%98%EC%97%B4)
+
+  - [15965]K번째 소수 - Silver 2 : [문제](https://www.acmicpc.net/problem/15965) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B15965%5DK%EB%B2%88%EC%A7%B8%20%EC%86%8C%EC%88%98)
+
+</div>
+</details>
