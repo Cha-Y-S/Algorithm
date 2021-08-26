@@ -14,6 +14,8 @@
 
   - [[1008]A/B - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1008%5DA%C3%B7B)
 
+  - [[1747]소수&팰린드롬 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1747%5D%EC%86%8C%EC%88%98%26%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)
+
   - [[2292]벌집 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2292%5D%EB%B2%8C%EC%A7%91)
 
   - [[2312]수 복원하기 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2312%5D%EC%88%98%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0)
@@ -23,6 +25,8 @@
   - [[2775]부녀회장이 될테야 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2775%5D%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%20%EB%90%A0%ED%85%8C%EC%95%BC)
 
   - [[2960]에라토스테네스의 체 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2960%5D%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4)
+
+  - [[3896]소수 사이 수열 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B3896%5D%EC%86%8C%EC%88%98%20%EC%82%AC%EC%9D%B4%20%EC%88%98%EC%97%B4)
 
   - [[4673]셀프 넘버 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B4673%5D%EC%85%80%ED%94%84%20%EB%84%98%EB%B2%84)
 
@@ -47,6 +51,8 @@
   - [[15740]A+B - 9 - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B15740%5DA%2BB%20-%209)
 
   - [[15792]A/B - 2 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B15792%5DA%C3%B7B%20-%202)
+
+  - [[15965]K번째 소수 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B15965%5DK%EB%B2%88%EC%A7%B8%20%EC%86%8C%EC%88%98)
 
   - [[17103]골든바흐 파티션 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B17103%5D%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%20%ED%8C%8C%ED%8B%B0%EC%85%98)
 
