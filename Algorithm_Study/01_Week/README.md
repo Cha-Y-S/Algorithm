@@ -21,3 +21,16 @@
 
 </div>
 </details>
+
+<details>
+<summary>2021/08/26</summary>
+<div markdown = "1">
+  
+  - [10953]A+B - 6 - Bronze 2 : [문제](https://www.acmicpc.net/problem/10953) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B10953%5DA%2BB%20-%206)
+
+  - [15740]A+B - 9 - Bronze 5 : [문제](https://www.acmicpc.net/problem/15740) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B15740%5DA%2BB%20-%209)
+
+  - [15792]A/B - 2 - Bronze 3 : [문제](https://www.acmicpc.net/problem/15792) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B15792%5DA%C3%B7B%20-%202)
+
+</div>
+</details>
