@@ -41,7 +41,13 @@
   
   - [1747]소수&팰린드롬 - Gold 5 : [문제](https://www.acmicpc.net/problem/1747) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1747%5D%EC%86%8C%EC%88%98%26%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)
 
+  - [1934]최소공배수 - Silver 5 : [문제](https://www.acmicpc.net/problem/1934) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1934%5D%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
+
+  - [2609]최대공약수와 최소공배수 - Silver 5 : [문제](https://www.acmicpc.net/problem/2609) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2609%5D%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
+
   - [3896]소수 사이 수열 - Silver 1 : [문제](https://www.acmicpc.net/problem/3896) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B3896%5D%EC%86%8C%EC%88%98%20%EC%82%AC%EC%9D%B4%20%EC%88%98%EC%97%B4)
+
+  - [9613]GCD 합 - Silver 3 : [문제](https://www.acmicpc.net/problem/9613) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B9613%5DGCD%20%ED%95%A9)
 
   - [15965]K번째 소수 - Silver 2 : [문제](https://www.acmicpc.net/problem/15965) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B15965%5DK%EB%B2%88%EC%A7%B8%20%EC%86%8C%EC%88%98)
 
