@@ -53,3 +53,16 @@
 
 </div>
 </details>
+
+<details>
+<summary>2021/08/28</summary>
+<div markdown = "1">
+  
+  - [1735]분수 합 - Silver 3 : [문제](https://www.acmicpc.net/problem/1735) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1735%5D%EB%B6%84%EC%88%98%20%ED%95%A9)
+
+  - [1850]최대공약수 - Silver 2 : [문제](https://www.acmicpc.net/problem/1850) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1850%5D%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98)
+
+  - [3036]링 - Silver 3 : [문제](https://www.acmicpc.net/problem/3036) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B3036%5D%EB%A7%81)
+
+</div>
+</details>
