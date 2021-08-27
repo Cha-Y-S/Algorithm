@@ -16,9 +16,13 @@
 
   - [[1747]소수&팰린드롬 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1747%5D%EC%86%8C%EC%88%98%26%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)
 
+  - [[1963]최소공배수 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1934%5D%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
+
   - [[2292]벌집 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2292%5D%EB%B2%8C%EC%A7%91)
 
   - [[2312]수 복원하기 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2312%5D%EC%88%98%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0)
+
+  - [[2609]최대공약수와 최소공배수 - silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2609%5D%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
 
   - [[2739]구구단 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2739%5D%EA%B5%AC%EA%B5%AC%EB%8B%A8)
 
@@ -33,6 +37,8 @@
   - [[6558]골든바흐의 추측 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B6588%5D%EA%B3%A8%EB%93%A0%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1)
 
   - [[9020]골드바흐의 추측 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B9020%5D%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1)
+
+  - [[9613]GCD 합 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B9613%5DGCD%20%ED%95%A9)
 
   - [[10250]ACM 호텔 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B10250%5DACM%20%ED%98%B8%ED%85%94)
 
