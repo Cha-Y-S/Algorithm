@@ -38,7 +38,7 @@ int main() {
           a = b;
           b = temp % b;
         }
-        sum += 1LL * b;
+        sum += b;
       }
     }
     cout << sum << endl;
