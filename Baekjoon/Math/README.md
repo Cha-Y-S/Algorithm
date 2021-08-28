@@ -26,7 +26,9 @@
 
   - [[2312]수 복원하기 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2312%5D%EC%88%98%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0)
 
-  - [[2609]최대공약수와 최소공배수 - silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2609%5D%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
+  - [[2436]공약수 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2436%5D%EA%B3%B5%EC%95%BD%EC%88%98)
+
+  - [[2609]최대공약수와 최소공배수 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2609%5D%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
 
   - [[2739]구구단 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2739%5D%EA%B5%AC%EA%B5%AC%EB%8B%A8)
 
