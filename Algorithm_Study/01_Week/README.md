@@ -62,6 +62,8 @@
 
   - [1850]최대공약수 - Silver 2 : [문제](https://www.acmicpc.net/problem/1850) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1850%5D%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98)
 
+  - [2436]공약수 - Gold 5 : [문제](https://www.acmicpc.net/problem/2436) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2436%5D%EA%B3%B5%EC%95%BD%EC%88%98)
+
   - [3036]링 - Silver 3 : [문제](https://www.acmicpc.net/problem/3036) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B3036%5D%EB%A7%81)
 
 </div>
