@@ -24,6 +24,8 @@
 
   - [[2667]단지번호붙이기 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2667%5D%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0)
 
+  - [[3055]탈출 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B3055%5D%ED%83%88%EC%B6%9C)
+
   - [[4963]섬의 개수 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B4963%5D%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98)
 
   - [[7562]나이트의 이동 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B7562%5D%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99)
