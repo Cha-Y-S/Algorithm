@@ -6,7 +6,9 @@
 
 ### 푼 문제
 
-  - [1324]효율적인 해킹 - Silver 2 : [문제](https:/www.acmicpc.net/problem/1325) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1325%5D%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%95%B4%ED%82%B9)
+  - [1324]효율적인 해킹 - Silver 2 : [문제](https://www.acmicpc.net/problem/1325) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1325%5D%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%95%B4%ED%82%B9)
+
+  - [1963]소수 경로 - Gold 4 : [문제](https://www.acmicpc.net/problem/1963) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1963%5D%EC%86%8C%EC%88%98%20%EA%B2%BD%EB%A1%9C)
 
   - [2206]벽 부수고 이동하기 - Gold 4 : [문제](https://www.acmicpc.net/problem/2206) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2206%5D%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)
 
