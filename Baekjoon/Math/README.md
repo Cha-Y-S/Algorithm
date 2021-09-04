@@ -14,6 +14,8 @@
 
   - [[1008]A/B - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1008%5DA%C3%B7B)
 
+  - [[1037]약수 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1037%5D%EC%95%BD%EC%88%98)
+
   - [[1735]분수 합 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1735%5D%EB%B6%84%EC%88%98%20%ED%95%A9)
 
   - [[1747]소수&팰린드롬 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1747%5D%EC%86%8C%EC%88%98%26%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)
