@@ -44,6 +44,8 @@
 
   - [[14502]연구소 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B14502%5D%EC%97%B0%EA%B5%AC%EC%86%8C)
 
+  - [[16929]Two Dots - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B16929%5DTwo%20Dots)
+
   - [[17142]연구소 3 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B17142%5D%EC%97%B0%EA%B5%AC%EC%86%8C%203)
 
 ---
