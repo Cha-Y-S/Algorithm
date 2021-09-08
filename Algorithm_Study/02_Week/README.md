@@ -24,4 +24,6 @@
 
   - [16929]Two Dots - Gold 4 : [문제](https://www.acmicpc.net/problem/16929) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B16929%5DTwo%20Dots)
 
+  - [17141]연구소 2 - Gold 5 : [문제](https://www.acmicpc.net/problem/17141) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B17141%5D%EC%97%B0%EA%B5%AC%EC%86%8C%202)
+
   - [17142]연구소 3 - Gold 4 : [문제](https://www.acmicpc.net/problem/17142) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B17142%5D%EC%97%B0%EA%B5%AC%EC%86%8C%203)
