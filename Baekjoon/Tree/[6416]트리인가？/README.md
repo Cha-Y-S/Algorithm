@@ -20,7 +20,7 @@
 
 아래의 그림을 보자. 원은 노드, 화살표는 간선을 의미하며, 화살표의 방향이 노드 u에서 노드 v로 향하는 경우 이는 이 간선이 u에서 나가는 간선이며 v로 들어오는 간선이다. 3개의 그림 중 앞의 2개는 트리지만 뒤의 1개는 트리가 아니다.
 
-<div style="display: flex; flex-direction: row">
+<div style="display: flex; flex-direction: row; background-color: #ffffff">
   <img src="https://www.acmicpc.net/upload/images2/tree1.gif" width="168" height="198" />
   <img src="https://www.acmicpc.net/upload/images2/tree2.gif" width="204" height="210" />
   <img src="https://www.acmicpc.net/upload/images2/tree3.gif" width="164" height="194" />
