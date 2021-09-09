@@ -14,4 +14,6 @@
 
   - [2250]트리의 높이와 너비 - Gold 2 : [문제](https://www.acmicpc.net/problem/2250) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B2250%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%86%92%EC%9D%B4%EC%99%80%20%EB%84%88%EB%B9%84)
 
+  - [6416]트리인가? - Gold 5 : [문제](https://www.acmicpc.net/problem/6416) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B6416%5D%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80%EF%BC%9F)
+
 ---
