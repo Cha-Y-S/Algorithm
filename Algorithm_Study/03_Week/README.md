@@ -16,4 +16,6 @@
 
   - [6416]트리인가? - Gold 5 : [문제](https://www.acmicpc.net/problem/6416) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B6416%5D%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80%EF%BC%9F)
 
+  - [14267]회사 문화 1 - Gold 4 : [문제](https://www.acmicpc.net/problem/14267) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B14267%5D%ED%9A%8C%EC%82%AC%20%EB%AC%B8%ED%99%94%201)
+
 ---
