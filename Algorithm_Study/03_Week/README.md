@@ -14,6 +14,8 @@
 
   - [2250]트리의 높이와 너비 - Gold 2 : [문제](https://www.acmicpc.net/problem/2250) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B2250%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%86%92%EC%9D%B4%EC%99%80%20%EB%84%88%EB%B9%84)
 
+  - [5639]이진 검색 트리 - Silver 1 : [문제](https://www.acmicpc.net/problem/5639) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B5639%5D%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC)
+
   - [6416]트리인가? - Gold 5 : [문제](https://www.acmicpc.net/problem/6416) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B6416%5D%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80%EF%BC%9F)
 
   - [11437]LCA - Gold 3 : [문제](https://www.acmicpc.net/problem/11437) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B11437%5DLCA)
