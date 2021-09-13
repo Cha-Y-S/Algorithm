@@ -22,6 +22,8 @@
 
   - [[11437]LCA - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B11437%5DLCA)
 
+  - [[11725]트리의 부모 찾기 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B11725%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0)
+
   - [[14267]회사 문화 1 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B14267%5D%ED%9A%8C%EC%82%AC%20%EB%AC%B8%ED%99%94%201)
 
 ---
