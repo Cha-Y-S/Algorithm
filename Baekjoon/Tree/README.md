@@ -6,6 +6,8 @@
 
 ---
 
+  - [[1068]트리 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B1068%5D%ED%8A%B8%EB%A6%AC)
+
   - [[1167]트리의 지름 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B1167%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84)
 
   - [[1967]트리의 지름 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B1967%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84)
