@@ -18,6 +18,8 @@
 
   - [2263]트리의 순회 - Gold 3 : [문제](https://www.acmicpc.net/problem/2263) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B2263%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%88%9C%ED%9A%8C)
 
+  - [3584]가장 가까운 공통 조상 - Gold 4 : [문제](https://www.acmicpc.net/problem/3584) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B3584%5D%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B3%B5%ED%86%B5%20%EC%A1%B0%EC%83%81)
+
   - [5639]이진 검색 트리 - Silver 1 : [문제](https://www.acmicpc.net/problem/5639) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B5639%5D%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC)
 
   - [6416]트리인가? - Gold 5 : [문제](https://www.acmicpc.net/problem/6416) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B6416%5D%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80%EF%BC%9F)
