@@ -146,4 +146,6 @@
 
   - [직업군 추천하기 - 위클리 챌린지(4주차)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EC%A7%81%EC%97%85%EA%B5%B0%20%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0)
 
+  - [복서 정렬하기 - 위클리 챌린지(6주차)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EB%B3%B5%EC%84%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+
 ---
