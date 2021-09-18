@@ -10,6 +10,8 @@
 
   - [[1167]트리의 지름 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B1167%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84)
 
+  - [[1240]노드사이의 거리 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B1240%5D%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%20%EA%B1%B0%EB%A6%AC)
+
   - [[1967]트리의 지름 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B1967%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84)
 
   - [[1991]트리 순회 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B1991%5D%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C)
