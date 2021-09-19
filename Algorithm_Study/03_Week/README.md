@@ -9,7 +9,7 @@
   - [1068]트리 - Gold 5 : [문제](https://www.acmicpc.net/problem/1068) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B1068%5D%ED%8A%B8%EB%A6%AC)
 
   - [1167]트리의 지름 - Gold 3 : [문제](https://www.acmicpc.net/problem/1167) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B1167%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84)
-
+  
   - [1240]노드사이의 거리 - Gold 4 : [문제](https://www.acmcicpc.net/problem/1240) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B1240%5D%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%20%EA%B1%B0%EB%A6%AC)
 
   - [1967]트리의 지름 - Gold 4 : [문제](https://www.acmicpc.net/problem/1967) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B1967%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84)
@@ -27,6 +27,8 @@
   - [5639]이진 검색 트리 - Silver 1 : [문제](https://www.acmicpc.net/problem/5639) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B5639%5D%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC)
 
   - [6416]트리인가? - Gold 5 : [문제](https://www.acmicpc.net/problem/6416) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B6416%5D%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80%EF%BC%9F)
+
+  - [9372]상근이의 여행 - Silver 4 : [문제](https://www.acmicpc.net/problem/9372) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B9372%5D%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89)
 
   - [11437]LCA - Gold 3 : [문제](https://www.acmicpc.net/problem/11437) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B11437%5DLCA)
 
