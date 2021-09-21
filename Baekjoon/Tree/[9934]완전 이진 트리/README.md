@@ -53,7 +53,7 @@
 <div style="display: flex; flex-direction: row;">
   <div  style="width: 50%;">
 
-  #### 예제 입력 1
+  **예제 입력 1**
 
   <pre>2
 2 1 3</pre>
@@ -61,7 +61,7 @@
   </div>
   <div style="width: 50%;">
 
-  #### 예제 출력 1
+  **예제 출력 1**
 
   <pre>1
 2 3</pre>
@@ -69,7 +69,7 @@
   </div>
     <div  style="width: 50%;">
 
-  #### 예제 입력 2
+  **예제 입력 2**
 
   <pre>3
 1 6 4 3 5 2 7</pre>
@@ -77,7 +77,7 @@
   </div>
   <div style="width: 50%;">
 
-  #### 예제 출력 2
+  **예제 출력 2**
 
   <pre>3
 6 2
