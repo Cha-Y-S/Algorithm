@@ -32,6 +32,8 @@
 
   - [[9372]상근이의 여행 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B9372%5D%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89)
 
+  - [[9934]완전 이진 트리 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B9934%5D%EC%99%84%EC%A0%84%20%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC)
+
   - [[11437]LCA - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B11437%5DLCA)
 
   - [[11725]트리의 부모 찾기 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B11725%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0)
