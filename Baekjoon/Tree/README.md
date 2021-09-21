@@ -24,6 +24,8 @@
 
   - [[4256]트리 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B4256%5D%ED%8A%B8%EB%A6%AC)
 
+  - [[4803]트리 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B4803%5D%ED%8A%B8%EB%A6%AC)
+
   - [[5639]이진 검색 트리 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B5639%5D%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC)
 
   - [[6416]트리인가? - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B6416%5D%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80%EF%BC%9F)
