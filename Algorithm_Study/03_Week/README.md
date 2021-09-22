@@ -26,6 +26,8 @@
 
   - [4803]트리 - Gold 4 : [문제](https://www.acmicpc.net/problem/4803) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B4803%5D%ED%8A%B8%EB%A6%AC)
 
+  - [5052]전화번호 목록 - Gold 4 : [문제](https://www.acmicpc.net/problem/5052) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B5052%5D%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D)
+
   - [5639]이진 검색 트리 - Silver 1 : [문제](https://www.acmicpc.net/problem/5639) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B5639%5D%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC)
 
   - [6416]트리인가? - Gold 5 : [문제](https://www.acmicpc.net/problem/6416) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B6416%5D%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80%EF%BC%9F)
