@@ -48,7 +48,7 @@
 
 ### 문제 접근
 
-  - [트라이](https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%9D%BC%EC%9D%B4_(%EC%BB%B4%ED%93%A8%ED%8C%85) 문제
+  - [트라이](https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%9D%BC%EC%9D%B4_(%EC%BB%B4%ED%93%A8%ED%8C%85)) 문제
 
   - 프로그래머스에서는 정렬을 사용해 해결했음
 
