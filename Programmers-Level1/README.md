@@ -100,6 +100,12 @@
 
 ---
 
+### 월간 코드 챌린지 시즌 3
+
+  - [없는 숫자 더하기 - 월간 코드 챌린지 시즌 3](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0)
+
+---
+
 ### Summer/Winter Coding(~2018)
   
   - [소수만들기 - Summer/Winter Coding(~2018)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
