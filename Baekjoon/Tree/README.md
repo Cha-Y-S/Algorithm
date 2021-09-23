@@ -42,4 +42,6 @@
 
   - [[14267]회사 문화 1 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B14267%5D%ED%9A%8C%EC%82%AC%20%EB%AC%B8%ED%99%94%201)
 
+  - [[14425]문자열 집합 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Tree/%5B14425%5D%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A7%91%ED%95%A9)
+
 ---
