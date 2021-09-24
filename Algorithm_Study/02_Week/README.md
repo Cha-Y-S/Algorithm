@@ -14,6 +14,8 @@
 
   - [2206]벽 부수고 이동하기 - Gold 4 : [문제](https://www.acmicpc.net/problem/2206) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2206%5D%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)
 
+  - [2468]안전 영역 - Silver 1 : [문제](https://www.acmicpc.net/problem/2468) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2468%5D%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD)
+
   - [3055]탈출 - Gold 4 : [문제](https://www.acmicpc.net/problem/3055) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B3055%5D%ED%83%88%EC%B6%9C)
 
   - [7562]나이트의 이동 - Silver 2 : [문제](https://www.acmicpc.net/problem/7562) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B7562%5D%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99)
