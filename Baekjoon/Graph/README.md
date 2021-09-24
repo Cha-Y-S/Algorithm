@@ -24,6 +24,8 @@
 
   - [[2206]벽 부수고 이동하기 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2206%5D%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)
 
+  - [[2468]안전 영역 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2468%5D%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD)
+
   - [[2606]바이러스 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2606%5D%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4)
 
   - [[2667]단지번호붙이기 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2667%5D%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0)
