@@ -17,7 +17,7 @@ string solution(vector<int> numbers) {
     sNums.push_back(to_string(numbers[i]));
   }
 
-  sort(sNums.begin(), sNums.end(), greater<string>());
+  sort(sNums.begin(), sNums.end(), comp);
 
   for (int i = 0; i < sNums.size(); i++)
     answer += sNums[i];
