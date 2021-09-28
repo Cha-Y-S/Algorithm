@@ -16,4 +16,6 @@
 
   - [[15654]N과 M (5) - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15654%5DN%EA%B3%BC%20M%20(5))
 
+  - [[15655]N과 M (6) - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15655%5DN%EA%B3%BC%20M%20(6))
+
 ---
