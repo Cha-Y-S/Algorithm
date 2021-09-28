@@ -18,4 +18,16 @@
 
   - [[15655]N과 M (6) - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15655%5DN%EA%B3%BC%20M%20(6))
 
+  - [[15656]N과 M (7) - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15656%5DN%EA%B3%BC%20M%20(7))
+
+  - [[15657]N과 M (8) - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15657%5DN%EA%B3%BC%20M%20(8))
+
+  - [[15663]N과 M (9) - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15663%5DN%EA%B3%BC%20M%20(9))
+
+  - [[15664]N과 M (10) - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15664%5DN%EA%B3%BC%20M%20(10))
+
+  - [[15665]N과 M (11) - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15665%5DN%EA%B3%BC%20M%20(11))
+
+  - [[15666]N과 M (12) - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15666%5DN%EA%B3%BC%20M%20(12))
+
 ---
