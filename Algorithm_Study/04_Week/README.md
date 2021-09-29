@@ -6,6 +6,8 @@
 
 ### 푼 문제
 
+  - [6603]로또 - Silver 2 : [문제](https://www.acmicpc.net/problem/6603) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B6603%5D%EB%A1%9C%EB%98%90)
+
   - [9663]N-Queen - Gold 5 : [문제](https://www.acmicpc.net/problem/9663) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B9664%5DN-Queen)
 
   - [15649]N과 M (1) - Silver 3 : [문제](https://www.acmicpc.net/problem/15649) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15650%5DN%EA%B3%BC%20M%20(1))
