@@ -6,6 +6,8 @@
 
 ---
 
+  - [[6603]로또 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B6603%5D%EB%A1%9C%EB%98%90)
+
   - [[9663]N-Queen - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B9664%5DN-Queen)
 
   - [[15649]N과 M (1) - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15649%5DN%EA%B3%BC%20M%20(1))
