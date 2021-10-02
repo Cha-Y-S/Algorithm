@@ -6,6 +6,8 @@
 
 ---
 
+  - [[1339]단어수학 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B1339%5D%EB%8B%A8%EC%96%B4%20%EC%88%98%ED%95%99)
+
   - [[1987]알파벳 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B1987%5D%EC%95%8C%ED%8C%8C%EB%B2%B3)
 
   - [[6603]로또 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B6603%5D%EB%A1%9C%EB%98%90)
