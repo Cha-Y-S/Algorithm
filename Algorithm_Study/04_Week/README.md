@@ -10,6 +10,8 @@
 
   - [1987]알파벳 - Gold 4 : [문제](https://www.acmicpc.net/problem/1987) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B1987%5D%EC%95%8C%ED%8C%8C%EB%B2%B3)
 
+  - [2580]스도쿠 - Gold 4 : [문제](https://www.acmicpc.net/problem/2580) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B2580%5D%EC%8A%A4%EB%8F%84%EC%BF%A0)
+
   - [6603]로또 - Silver 2 : [문제](https://www.acmicpc.net/problem/6603) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B6603%5D%EB%A1%9C%EB%98%90)
 
   - [9663]N-Queen - Gold 5 : [문제](https://www.acmicpc.net/problem/9663) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B9664%5DN-Queen)
