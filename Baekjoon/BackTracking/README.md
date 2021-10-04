@@ -8,6 +8,8 @@
 
   - [[1339]단어수학 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B1339%5D%EB%8B%A8%EC%96%B4%20%EC%88%98%ED%95%99)
 
+  - [[1759]암호 만들기 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B1759%5D%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
   - [[1987]알파벳 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B1987%5D%EC%95%8C%ED%8C%8C%EB%B2%B3)
 
   - [[2580]스도쿠 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B2580%5D%EC%8A%A4%EB%8F%84%EC%BF%A0)
