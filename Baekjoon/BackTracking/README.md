@@ -12,6 +12,8 @@
 
   - [[1987]알파벳 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B1987%5D%EC%95%8C%ED%8C%8C%EB%B2%B3)
 
+  - [[2023]신기한 소수 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B2023%5D%EC%8B%A0%EA%B8%B0%ED%95%9C%20%EC%86%8C%EC%88%98)
+
   - [[2580]스도쿠 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B2580%5D%EC%8A%A4%EB%8F%84%EC%BF%A0)
 
   - [[6603]로또 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B6603%5D%EB%A1%9C%EB%98%90)
