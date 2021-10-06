@@ -18,6 +18,8 @@
 
   - [[9663]N-Queen - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B9664%5DN-Queen)
 
+  - [[14888]연산자 끼워넣기 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B14888%5D%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)
+
   - [[15649]N과 M (1) - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15649%5DN%EA%B3%BC%20M%20(1))
   
   - [[15650]N과 M (2) - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15650%5DN%EA%B3%BC%20M%20(2))
