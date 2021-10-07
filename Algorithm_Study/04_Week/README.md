@@ -48,4 +48,6 @@
 
   - [15666]N과 M (12) - Silver 2 : [문제](https://www.acmicpc.net/problem/15666) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15666%5DN%EA%B3%BC%20M%20(12))
 
+  - [16197]두 동전 - Gold 4 : [문제](https:/www.acmicp.net/problem/16197) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B16197%5D%EB%91%90%20%EB%8F%99%EC%A0%84)
+
 ---
