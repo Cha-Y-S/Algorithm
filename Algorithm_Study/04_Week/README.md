@@ -6,6 +6,8 @@
 
 ### 푼 문제
 
+  - [1182]부분수열의 합 - Silver 2 : [문제](https://www.acmicpc.net/problem/1182) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B1182%5D%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9)
+
   - [1339]단어수학 - Gold 4 : [문제](https://www.acmicpc.net/problem/1339) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B1339%5D%EB%8B%A8%EC%96%B4%20%EC%88%98%ED%95%99)
 
   - [1759]암호 만들기 - Gold 5 : [문제](https:/www.acmicpc.net/problem/1759) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B1759%5D%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
