@@ -48,6 +48,8 @@
 
   - [15666]N과 M (12) - Silver 2 : [문제](https://www.acmicpc.net/problem/15666) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15666%5DN%EA%B3%BC%20M%20(12))
 
+  - [15684]사다리 조작 - Gold 4 : [문제](https:/www.acmicpc.net/problem/15684) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B15684%5D%EC%82%AC%EB%8B%A4%EB%A6%AC%20%EC%A1%B0%EC%9E%91)
+
   - [16197]두 동전 - Gold 4 : [문제](https:/www.acmicp.net/problem/16197) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BackTracking/%5B16197%5D%EB%91%90%20%EB%8F%99%EC%A0%84)
 
 ---
