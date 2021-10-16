@@ -18,4 +18,6 @@
 
   - [[7568]덩치 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B7568%5D%EB%8D%A9%EC%B9%98)
 
+  - [[1436]영화감독 숌 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1436%5D%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C)
+
 ---
