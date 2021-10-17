@@ -10,4 +10,6 @@
 
   - [[10845]큐 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Queue/%5B10845%5D%ED%81%90)
 
+  - [[10866]덱 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Queue)
+
 ---
