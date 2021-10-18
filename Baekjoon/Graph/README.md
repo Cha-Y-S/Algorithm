@@ -38,6 +38,8 @@
 
   - [[7562]나이트의 이동 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B7562%5D%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99)
 
+  - [[7569]토마토 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B7569%5D%ED%86%A0%EB%A7%88%ED%86%A0)
+
   - [[7576]토마토 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B7576%5D%ED%86%A0%EB%A7%88%ED%86%A0)
 
   - [[10026]적록색약 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B10026%5D%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD)
