@@ -12,6 +12,8 @@
 
   - [[1427]소트인사이드 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B1427%5D%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C)
 
+  - [[2108]통계학 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2108%5D%ED%86%B5%EA%B3%84%ED%95%99)
+
   - [[2750]수 정렬하기 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2750%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
 
   - [[2751]수 정렬하기 2 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2751%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202)
