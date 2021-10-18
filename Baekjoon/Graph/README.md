@@ -18,6 +18,8 @@
 
   - [[1753]최단경로 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1753%5D%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)
 
+  - [[1926]그림 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1926%5D%EA%B7%B8%EB%A6%BC)
+
   - [[1963]소수 경로 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1963%5D%EC%86%8C%EC%88%98%20%EA%B2%BD%EB%A1%9C)
 
   - [[2178]미로 탐색 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B2178%5D%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89)
