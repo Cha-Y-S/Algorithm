@@ -14,4 +14,6 @@
 
   - [[10866]덱 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Queue)
 
+  - [[11866]요세푸스 문제0 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Queue/%5B11866%5D%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C0)
+
 ---
