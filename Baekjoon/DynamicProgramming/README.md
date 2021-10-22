@@ -12,6 +12,8 @@
 
   - [[1463]1로 만들기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1463%5D1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+  - [[1912]연속합 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1912%5D%EC%97%B0%EC%86%8D%ED%95%A9)
+
   - [[2156]포도주 시식 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2156%5D%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D)
 
   - [[2278]피보나치 수 2 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2748%5D%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%202)
