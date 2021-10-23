@@ -10,4 +10,6 @@
 
   - [9625]BABBA - Bronze 5 : [문제](https://www.acmicpc.net/problem/9625) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9625%5DBABBA)
 
+  - [10844]쉬운 계단 수 - Silver 1 : [문제](https://www.acmicpc.net/problem/10844) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B10844%5D%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98)
+
 ---
