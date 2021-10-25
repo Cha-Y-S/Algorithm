@@ -22,6 +22,8 @@
 
   - [[9095]1, 2, 3 더하기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9095%5D1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0)
 
+  - [[9461]파도반 수열 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9461%5D%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4)
+
   - [[9625]BABBA - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9625%5DBABBA)
 
   - [[10844]쉬운 계단 수 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B10844%5D%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98)
