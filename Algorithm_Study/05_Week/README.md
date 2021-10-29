@@ -1,12 +1,14 @@
 # 5주차 알고리즘 스터디
 
 <div align = center>
-  <b>Dynamic Programming</b>
+  <b>Dynamic Programming / Greedy Algorithm</b>
 </div>
 
 ### 푼 문제
 
   - [1912]연속합 - Silver 2 : [문제](https://www.acmicpc.net/problem/1912) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1912%5D%EC%97%B0%EC%86%8D%ED%95%A9)
+
+  - [1931]회의실 배정 - Silver 2 : [문제](https://www.acmicpc.net/problem/1931) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Greedy/%5B1931%5D%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95)
 
   - [9461]파도반 수열 - Silver 3 : [문제](https://www.acmicpc.net/problem/9461) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9461%5D%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4)
 
