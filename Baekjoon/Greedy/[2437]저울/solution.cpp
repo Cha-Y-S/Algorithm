@@ -1,31 +1,35 @@
-#[]()
+#include <algorithm>
+#include <iostream>
+#include <vector>
 
-<div align = center>
+using namespace std;
 
-    | 시간 제한 | 메모리 제한 | 제출 | 정답 | 맞은 사람 | 정답 비율 |
-    | : -------- | : ---------- | : --- | : --- | : -------- | : -------- |
+#define endl "\n"
 
-                                                                 </ div>
+vector<int> weight;
+int N, res;
 
-                                                                     ## #문제
+int main() {
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
 
-                                                                     -- -
+  cin >> N;
 
-                                                                     ## #입력
+  weight = vector<int>(N);
+  res = 1;
 
-                                                                     -- -
+  for (int i = 0; i < N; i++)
+    cin >> weight[i];
 
-                                                                     ## #출력
+  sort(weight.begin(), weight.end());
 
-                                                                     -- -
+  for (int i = 0; i < N; i++) {
+    if (weight[i] > res)
+      break;
+    res += weight[i];
+  }
 
-                                                                     ## #예제 입력
+  cout << res << endl;
 
-                                                                 |
-                                                                 예제 입력1 | 예제 출력1 |
-                                                                 | : --------- | : --------- |
-                                                                                   | | |
-
-                                                                                   ---
-
-                                                                                     ## #문제 접근
+  return 0;
+}
