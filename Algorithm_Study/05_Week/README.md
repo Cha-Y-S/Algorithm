@@ -12,6 +12,8 @@
 
   - [1931]회의실 배정 - Silver 2 : [문제](https://www.acmicpc.net/problem/1931) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Greedy/%5B1931%5D%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95)
 
+  - [2437]저울 - Gold 3 : [문제](https//www.acmicpc.net/problem/2437) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Greedy/%5B2437%5D%EC%A0%80%EC%9A%B8)
+
   - [9461]파도반 수열 - Silver 3 : [문제](https://www.acmicpc.net/problem/9461) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9461%5D%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4)
 
   - [9625]BABBA - Bronze 5 : [문제](https://www.acmicpc.net/problem/9625) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9625%5DBABBA)
