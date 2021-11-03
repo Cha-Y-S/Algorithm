@@ -16,4 +16,6 @@
 
   - [[2630]색종이 만들기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B2630%5D%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+  - [[10830]행렬 제곱 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B10830%5D%ED%96%89%EB%A0%AC%20%EC%A0%9C%EA%B3%B1)
+
 ---
