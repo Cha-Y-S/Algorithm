@@ -1,31 +1,49 @@
-#[]()
+#include <iostream>
+#include <vector>
 
-<div align = center>
+using namespace std;
 
-    | 시간 제한 | 메모리 제한 | 제출 | 정답 | 맞은 사람 | 정답 비율 |
-    | : -------- | : ---------- | : --- | : --- | : -------- | : -------- |
+vector<vector<char>> star;
+int N;
 
-                                                                 </ div>
+void draw_star(int n, int x, int y);
+void print_star();
 
-                                                                     ## #문제
+int main() {
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
 
-                                                                     -- -
+  cin >> N;
 
-                                                                     ## #입력
+  star = vector<vector<char>>(N, vector<char>(2 * N - 1, ' '));
 
-                                                                     -- -
+  draw_star(N, 0, N - 1);
 
-                                                                     ## #출력
+  print_star();
 
-                                                                     -- -
+  return 0;
+}
 
-                                                                     ## #예제 입력
+void draw_star(int n, int x, int y) {
+  if (n == 3) {
+    star[x][y] = '*';
+    star[x + 1][y - 1] = '*';
+    star[x + 1][y + 1] = '*';
+    for (int i = 0; i < 5; i++)
+      star[x + 2][y - i + 2] = '*';
+    return;
+  }
 
-                                                                 |
-                                                                 예제 입력1 | 예제 출력1 |
-                                                                 | : --------- | : --------- |
-                                                                                   | | |
+  draw_star(n / 2, x, y);
+  draw_star(n / 2, x + n / 2, y - n / 2);
+  draw_star(n / 2, x + n / 2, y + n / 2);
+}
 
-                                                                                   ---
-
-                                                                                     ## #문제 접근
+void print_star() {
+  for (int i = 0; i < N; i++) {
+    for (int j = 0; j < 2 * N - 1; j++) {
+      cout << star[i][j];
+    }
+    cout << endl;
+  }
+}
