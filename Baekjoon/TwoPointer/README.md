@@ -10,4 +10,6 @@
 
   - [[2003]수들의 합 2 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TwoPointer/%5B2003%5D%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%202)
 
+  - [[11728]배열 합치기 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TwoPointer/%5B11728%5D%EB%B0%B0%EC%97%B4%20%ED%95%A9%EC%B9%98%EA%B8%B0)
+
 ---
