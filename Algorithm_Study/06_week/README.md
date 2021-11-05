@@ -24,4 +24,6 @@
 
   - [10830]행렬 제곱 - Gold 4 : [문제](https://www.acmicpc.net/problem/10830) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B10830%5D%ED%96%89%EB%A0%AC%20%EC%A0%9C%EA%B3%B1)
 
+  - [11728]배열 합치기 - Silver 5 : [문제](https://www.acmicpc.net/problem/11728) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TwoPointer/%5B11728%5D%EB%B0%B0%EC%97%B4%20%ED%95%A9%EC%B9%98%EA%B8%B0)
+
 ---
