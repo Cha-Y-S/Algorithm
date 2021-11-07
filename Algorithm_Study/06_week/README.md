@@ -8,6 +8,8 @@
 
   - [1074]Z - Silver 1 : [문제](https://www.acmicpc.net/problem/1074) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B1074%5DZ)
 
+  - [1654]랜선 자르기 - Silver 3 : [문제](https://www.acmicpc.net/problem/1654) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B1654%5D%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0)
+
   - [1780]종이의 개수 - Silver 2 : [문제](https://www.acmicpc.net/problem/1780) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B1780%5D%EC%A2%85%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)
 
   - [1806]부분합 - Gold 4 : [문제](https://www.acmicpc.net/problem/1806) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TwoPointer/%5B1806%5D%EB%B6%80%EB%B6%84%ED%95%A9)
