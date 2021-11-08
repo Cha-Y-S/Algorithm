@@ -18,6 +18,8 @@
 
   - [2003]수들의 합 2 - Silver 3 : [문제](https://www.acmicpc.net/problem/2003) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TwoPointer/%5B2003%5D%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%202)
 
+  - [2110]공유기 설치 - Silver 1 : [문제](https://www.acmicpc.net/problem/2110) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B2110%5D%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98)
+
   - [2447]별 찍기 - 10 - Silver 1 : [문제](https://www.acmicpc.net/problem/2447) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B2447%5D%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2010)
 
   - [2448]별 찍기 - 11 - Gold 4 : [문제](https://www.acmcicpc.net/problem/2448) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B2448%5D%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2011)
