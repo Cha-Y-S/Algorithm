@@ -18,6 +18,8 @@
 
   - [[2630]색종이 만들기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B2630%5D%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+  - [[2749]피보나치 수 3 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B2749%5D%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%203)
+
   - [[10830]행렬 제곱 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B10830%5D%ED%96%89%EB%A0%AC%20%EC%A0%9C%EA%B3%B1)
 
   - [[12850]본대 산책2 - Gold 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B12850%5D%EB%B3%B8%EB%8C%80%20%EC%82%B0%EC%B1%852)
