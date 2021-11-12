@@ -38,6 +38,8 @@
 
   - [11728]배열 합치기 - Silver 5 : [문제](https://www.acmicpc.net/problem/11728) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TwoPointer/%5B11728%5D%EB%B0%B0%EC%97%B4%20%ED%95%A9%EC%B9%98%EA%B8%B0)
 
+  - [12015]가장 긴 증가하는 부분 수열 2 - Gold 2 : [문제](https://www.acmicpc.net/problem/12015) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B12015%5D%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%202)
+
   - [12850]본대 산책2 - Gold 1 : [문제](https://www.acmicpc.net/problem/12850) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B12850%5D%EB%B3%B8%EB%8C%80%20%EC%82%B0%EC%B1%852)
 
 ---
