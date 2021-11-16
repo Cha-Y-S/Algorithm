@@ -102,6 +102,8 @@
 
 ### 월간 코드 챌린지 시즌 3
 
+  - [나머지가 1이 되는 수 찾기 - 월간 코드 챌린지 시즌 3](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0)
+
   - [없는 숫자 더하기 - 월간 코드 챌린지 시즌 3](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0)
 
 ---
