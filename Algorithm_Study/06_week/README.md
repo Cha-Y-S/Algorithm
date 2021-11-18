@@ -16,6 +16,8 @@
 
   - [1806]부분합 - Gold 4 : [문제](https://www.acmicpc.net/problem/1806) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TwoPointer/%5B1806%5D%EB%B6%80%EB%B6%84%ED%95%A9)
 
+  - [1916]최소비용 구하기 - Gold 5 : [문제](https://www.acmicpc.net/problem/1916) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1916%5D%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+
   - [1992]쿼드트리 - Silver 1 : [문제](https://www.acmicpc.net/problem/1992) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B1992%5D%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC)
 
   - [2003]수들의 합 2 - Silver 3 : [문제](https://www.acmicpc.net/problem/2003) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TwoPointer/%5B2003%5D%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%202)
