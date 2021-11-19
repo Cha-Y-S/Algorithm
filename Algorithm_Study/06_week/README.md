@@ -8,6 +8,8 @@
 
   - [1074]Z - Silver 1 : [문제](https://www.acmicpc.net/problem/1074) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B1074%5DZ)
 
+  - [1261]알고스팟 - Gold 4 : [문제](https://www.acmicpc.net/problem/1261) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1261%5D%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F)
+
   - [1300]K번째 수 - Gold 3 : [문제](https://www.acmicpc.net/problem/1300) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B1300%5DK%EB%B2%88%EC%A7%B8%20%EC%88%98)
 
   - [1654]랜선 자르기 - Silver 3 : [문제](https://www.acmicpc.net/problem/1654) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B1654%5D%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0)
