@@ -8,8 +8,6 @@
 
   - [1074]Z - Silver 1 : [문제](https://www.acmicpc.net/problem/1074) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B1074%5DZ)
 
-  - [1261]알고스팟 - Gold 4 : [문제](https://www.acmicpc.net/problem/1261) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1261%5D%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F)
-
   - [1300]K번째 수 - Gold 3 : [문제](https://www.acmicpc.net/problem/1300) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B1300%5DK%EB%B2%88%EC%A7%B8%20%EC%88%98)
 
   - [1654]랜선 자르기 - Silver 3 : [문제](https://www.acmicpc.net/problem/1654) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B1654%5D%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0)
@@ -17,8 +15,6 @@
   - [1780]종이의 개수 - Silver 2 : [문제](https://www.acmicpc.net/problem/1780) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B1780%5D%EC%A2%85%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)
 
   - [1806]부분합 - Gold 4 : [문제](https://www.acmicpc.net/problem/1806) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TwoPointer/%5B1806%5D%EB%B6%80%EB%B6%84%ED%95%A9)
-
-  - [1916]최소비용 구하기 - Gold 5 : [문제](https://www.acmicpc.net/problem/1916) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1916%5D%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 
   - [1992]쿼드트리 - Silver 1 : [문제](https://www.acmicpc.net/problem/1992) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B1992%5D%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC)
 
@@ -41,8 +37,6 @@
   - [7453]합이 0인 네 정수 - Gold 2 : [문제](https://www.acmicpc.net/problem/7453) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TwoPointer/%5B7453%5D%ED%95%A9%EC%9D%B4%200%EC%9D%B8%20%EB%84%A4%20%EC%A0%95%EC%88%98)
 
   - [10830]행렬 제곱 - Gold 4 : [문제](https://www.acmicpc.net/problem/10830) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B10830%5D%ED%96%89%EB%A0%AC%20%EC%A0%9C%EA%B3%B1)
-
-  - [11657]타임머신 - Gold 4 : [문제](https://www.acmicpc.net/problem/11657) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11657%5D%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0)
 
   - [11728]배열 합치기 - Silver 5 : [문제](https://www.acmicpc.net/problem/11728) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TwoPointer/%5B11728%5D%EB%B0%B0%EC%97%B4%20%ED%95%A9%EC%B9%98%EA%B8%B0)
 
