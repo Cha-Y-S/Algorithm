@@ -8,6 +8,8 @@
 
   - [[1012]유기농 배추 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1012%5D%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94)
 
+  - [[1238]파티 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1238%5D%ED%8C%8C%ED%8B%B0)
+
   - [[1260]DFS와 BFS - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1260%5DDFS%EC%99%80%20BFS)
 
   - [[1261]알고스팟 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1261%5D%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F)
