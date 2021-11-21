@@ -6,6 +6,8 @@
 
 ### 푼 문제
 
+  - [1219]오민식의 고민 - Gold 1 : [문제](https://www.acmicpc.net/problem/1219) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1219%5D%EC%98%A4%EB%AF%BC%EC%8B%9D%EC%9D%98%20%EA%B3%A0%EB%AF%BC)
+
   - [1238]파티 - Gold 3 : [문제](https://www.acmicpc.net/problem/1238) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1238%5D%ED%8C%8C%ED%8B%B0)
 
   - [1261]알고스팟 - Gold 4 : [문제](https://www.acmicpc.net/problem/1261) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1261%5D%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F)
