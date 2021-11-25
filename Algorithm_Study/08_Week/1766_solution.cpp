@@ -26,8 +26,8 @@ int main() {
 
     cin >> A >> B;
 
-    par[B - 1].push_back(A - 1);
-    cnt[A - 1]++;
+    par[A - 1].push_back(B - 1);
+    cnt[B - 1]++;
   }
 
   topological_sort();
@@ -38,7 +38,7 @@ int main() {
 }
 
 void topological_sort() {
-  priority_queue<int, vector<int>, greater<int>()) pq;
+  priority_queue<int, vector<int>, greater<int>> pq;
 
   for (int i = 0; i < N; i++) {
     if (cnt[i] == 0) pq.push(i);
@@ -52,13 +52,13 @@ void topological_sort() {
     res.push_back(cur);
 
     for (int i = 0; i < par[cur].size(); i++) {
-      if (--cnt[par[cur][i]] == 0) pq.push(i);
+      if (--cnt[par[cur][i]] == 0) pq.push(par[cur][i]);
     }
   }
 }
 
 void print_res() {
   for (int i = 0; i < N; i++)
-    cout << res[i] << " ";
+    cout << res[i] + 1 << " ";
   cout << endl;
 }
