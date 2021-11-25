@@ -40,9 +40,9 @@ N개의 각 건물이 완성되기까지 걸리는 최소 시간을 출력한다
 
 ### 문제 접근
 
-  - [1005 - ACM Craft]() 동일한 문제
+  - [1005 - ACM Craft](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B1005%5DACM%20Craft) 동일한 문제
 
-  - 단, [ACM Craft]()의 경우 `queue`에서 `pop`된 노드의 완료 시간을 이전 노드들을 참조하여 구하는 방식으로 진행
+  - 단, [ACM Craft](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B1005%5DACM%20Craft)의 경우 `queue`에서 `pop`된 노드의 완료 시간을 이전 노드들을 참조하여 구하는 방식으로 진행
 
   - 이번 문제의 경우 `pop`된 노드를 기준으로 이후 노드들의 완료 시간을 구하는 방식으로 진행
 
