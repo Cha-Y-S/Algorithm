@@ -12,6 +12,8 @@
 
   - [[1766]문제집 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B1766%5D%EB%AC%B8%EC%A0%9C%EC%A7%91)
 
+  - [[2056]작업 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B2056%5D%EC%9E%91%EC%97%85)
+
   - [[2252]줄 세우기 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B2252%5D%EC%A4%84%20%EC%84%B8%EC%9A%B0%EA%B8%B0)
 
   - [[2623]음악프로그램 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B2623%5D%EC%9D%8C%EC%95%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
