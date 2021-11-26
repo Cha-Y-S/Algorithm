@@ -44,7 +44,7 @@
 
   - 위상 정렬 문제
 
-  - [1516 - 게임 개발]()문제와 동일한 문제
+  - [1516 - 게임 개발](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B1516%5D%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C)문제와 동일한 문제
 
     - 입력 form과 출력문만 수정하면 됨
 
