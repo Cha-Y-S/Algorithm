@@ -8,6 +8,8 @@
 
   - [1005]ACM Craft - Gold 3 : [문제](https://www.acmicpc.net/problem/1005) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B1005%5DACM%20Craft)
 
+  - [1094]막대기 - Silver 5 : [문제](https://www.acmicpc.net/problem/1094) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BitMasking/%5B1094%5D%EB%A7%89%EB%8C%80%EA%B8%B0)
+
   - [1516]게임 개발 - Gold 3 : [문제](https://www.acmicpc.net/problem/1516) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B1516%5D%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C)
 
   - [1717]집합의 표현 - Gold 4 : [문제](https://www.acmicpc.net/problem/1717) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DisjointSet/%5B1717%5D%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84)
