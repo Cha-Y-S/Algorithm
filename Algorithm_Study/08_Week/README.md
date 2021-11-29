@@ -24,4 +24,6 @@
 
   - [4195]친구 네트워크 - Gold 2 : [문제](https://www.acmicpc.net/problem/4195) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DisjointSet/%5B4195%5D%EC%B9%9C%EA%B5%AC%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 
+  - [11723]집합 - Silver 5 : [문제](https://www.acmicpc.net/problem/11723) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BitMasking/%5B11723%5D%EC%A7%91%ED%95%A9)
+
 ---
