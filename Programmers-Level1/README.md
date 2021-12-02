@@ -156,4 +156,6 @@
 
   - [복서 정렬하기 - 위클리 챌린지(6주차)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EB%B3%B5%EC%84%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
 
+  - [최소직사각형 - 위클리 챌린지(8주차)](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
+
 ---
