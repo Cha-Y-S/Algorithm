@@ -18,4 +18,6 @@
 
   - [[2623]음악프로그램 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B2623%5D%EC%9D%8C%EC%95%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
 
+  - [[2637]장난감 조립 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B2637%5D%EC%9E%A5%EB%82%9C%EA%B0%90%20%EC%A1%B0%EB%A6%BD)
+
 ---
