@@ -10,6 +10,8 @@
 
   - [1094]막대기 - Silver 5 : [문제](https://www.acmicpc.net/problem/1094) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BitMasking/%5B1094%5D%EB%A7%89%EB%8C%80%EA%B8%B0)
 
+  - [1194]달이 차오른다, 가자. - Gold 1 : [문제](https://www.acmicpc.net/problem/1194) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BitMasking/%5B1194%5D%EB%8B%AC%EC%9D%B4%20%EC%B0%A8%EC%98%A4%EB%A5%B8%EB%8B%A4%2C%20%EA%B0%80%EC%9E%90%EF%BC%8E)
+
   - [1516]게임 개발 - Gold 3 : [문제](https://www.acmicpc.net/problem/1516) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B1516%5D%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C)
 
   - [1717]집합의 표현 - Gold 4 : [문제](https://www.acmicpc.net/problem/1717) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DisjointSet/%5B1717%5D%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84)
