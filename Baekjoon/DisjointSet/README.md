@@ -6,6 +6,8 @@
 
 ---
 
+  - [[1043]거짓말 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DisjointSet/%5B1043%5D%EA%B1%B0%EC%A7%93%EB%A7%90)
+
   - [[1717]집합의 표현 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DisjointSet/%5B1717%5D%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84)
 
   - [[1976]여행 가자 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DisjointSet)
