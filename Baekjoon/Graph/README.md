@@ -18,6 +18,8 @@
 
   - [[1325]효율적인 해킹 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1325%5D%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%95%B4%ED%82%B9)
 
+  - [[1389]케빈 베이컨의 6단계 법칙 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1389%5D%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99)
+
   - [[1697]숨바꼭질 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1697%5D%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)
 
   - [[1707]이분 그래프 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1707%5D%EC%9D%B4%EB%B6%84%20%EA%B7%B8%EB%9E%98%ED%94%84)
