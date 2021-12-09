@@ -6,6 +6,8 @@
 
 ---
 
+  - [[1620]나는야 포켓몬 마스터 이다솜 - Silved 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1620%5D%EB%82%98%EB%8A%94%EC%95%BC%20%ED%8F%AC%EC%BC%93%EB%AA%AC%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EC%9D%B4%EB%8B%A4%EC%86%9C)
+
   - [[5430]AC - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B5430%5DAC)
 
   - [[14503]로봇 청소기 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B14503%5D%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0)
