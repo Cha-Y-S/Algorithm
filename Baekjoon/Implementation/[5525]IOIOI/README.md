@@ -60,15 +60,32 @@ S에 PN이 몇 군데 포함되어 있는지 출력한다.
 | :------------------------- | :--------- |
 | 1<br/>13<br/>OOIOIOIOIIOII | 4          |
 
-  - OO<U>IOI</U>OIOIIOII
+  - OO**IOI**OIOIIOII
 
-  - OOIOIOIOIIOII
+  - OOIO**IOI**OIIOII
 
-  - OOIOIOIOIIOII
+  - OOIOIO**IOI**IOII
 
-  - OOIOIOIOIIOII
+  - OOIOIOIOI**IOI**I
+
+| 예제 입력2                      | 예제 출력2 |
+| :------------------------------ | :--------- |
+| 2<br/><br/>13<br/>OOIOIOIOIIOII | 2          |
+
+  - OO**IOIOI**OIIOII
+
+  - OOIO**IOIOI**IOII
 
 ---
 
 ### 문제 접근
 
+  - 입력받은 문자열 `S`를 `M`만큼 순회하며 검사
+
+  - 검사 대상 문자가 `I`라면, 이후 두 개의 글자가 `OI`일 때, 1씩 카운트
+
+  - 카운트 수와 `N`이 같아지면 `cnt`를 1 감소시켜 중복 카운트 방지, `res` 1 증가
+
+  - 매 반복 시 마다 인덱스를 2씩 증가시킴
+
+  - `M`만큼 순회가 종료되면 `res` 값 출력
