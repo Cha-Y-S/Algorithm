@@ -60,21 +60,21 @@ S에 PN이 몇 군데 포함되어 있는지 출력한다.
 | :------------------------- | :--------- |
 | 1<br/>13<br/>OOIOIOIOIIOII | 4          |
 
-  - OO**IOI**OIOIIOII
+  - OO***IOI***OIOIIOII
 
-  - OOIO**IOI**OIIOII
+  - OOIO***IOI***OIIOII
 
-  - OOIOIO**IOI**IOII
+  - OOIOIO***IOI***IOII
 
-  - OOIOIOIOI**IOI**I
+  - OOIOIOIOI***IOI***I
 
 | 예제 입력2                      | 예제 출력2 |
 | :------------------------------ | :--------- |
 | 2<br/><br/>13<br/>OOIOIOIOIIOII | 2          |
 
-  - OO**IOIOI**OIIOII
+  - OO***IOIOI***OIIOII
 
-  - OOIO**IOIOI**IOII
+  - OOIO***IOIOI***IOII
 
 ---
 
