@@ -60,7 +60,7 @@ S에 PN이 몇 군데 포함되어 있는지 출력한다.
 | :------------------------- | :--------- |
 | 1<br/>13<br/>OOIOIOIOIIOII | 4          |
 
-  - OO<u>IOI</u>OIOIIOII
+  - OO<U>IOI</U>OIOIIOII
 
   - OOIOIOIOIIOII
 
