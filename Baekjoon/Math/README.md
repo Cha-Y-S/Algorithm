@@ -54,6 +54,8 @@
 
   - [[9020]골드바흐의 추측 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B9020%5D%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1)
 
+  - [[9375]패션왕 신해빈 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B9375%5D%ED%8C%A8%EC%85%98%EC%99%95%20%EC%8B%A0%ED%95%B4%EB%B9%88)
+
   - [[9613]GCD 합 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B9613%5DGCD%20%ED%95%A9)
 
   - [[10250]ACM 호텔 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B10250%5DACM%20%ED%98%B8%ED%85%94)
