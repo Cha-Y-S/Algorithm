@@ -20,6 +20,8 @@
 
   - [[11279]최대 힙 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Queue/%5B11279%5D%EC%B5%9C%EB%8C%80%20%ED%9E%99)
 
+  - [[11286]절댓값 힙 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Queue/%5B11286%5D%EC%A0%88%EB%8C%93%EA%B0%92%20%ED%9E%99)
+
   - [[11866]요세푸스 문제0 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Queue/%5B11866%5D%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C0)
 
 ---
