@@ -16,6 +16,8 @@
 
   - [1516]게임 개발 - Gold 3 : [문제](https://www.acmicpc.net/problem/1516) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B1516%5D%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C)
 
+  - [1562]계단 수 - Gold 1 : [문제](https://www.acmicpc.net/problem/1562) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BitMasking/%5B1562%5D%EA%B3%84%EB%8B%A8%20%EC%88%98)
+
   - [1717]집합의 표현 - Gold 4 : [문제](https://www.acmicpc.net/problem/1717) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DisjointSet/%5B1717%5D%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84)
 
   - [1766]문제집 - Gold 2 : [문제](https://www.acmicpc.net/problem/1766) / [풀이](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B1766%5D%EB%AC%B8%EC%A0%9C%EC%A7%91)
