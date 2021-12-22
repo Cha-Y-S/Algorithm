@@ -10,6 +10,8 @@
 
   - [[1065]한수 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1065%5D%ED%95%9C%EC%88%98)
 
+  - [[1107]리모컨 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1107%5D%EB%A6%AC%EB%AA%A8%EC%BB%A8)
+
   - [[1436]영화감독 숌 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1436%5D%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C)
 
   - [[2231]분해합 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B2231%5D%EB%B6%84%ED%95%B4%ED%95%A9)
