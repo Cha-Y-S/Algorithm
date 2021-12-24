@@ -76,6 +76,8 @@
 
   - [[16236]아기 상어 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B16236%5D%EC%95%84%EA%B8%B0%20%EC%83%81%EC%96%B4)
 
+  - [[16928]뱀과 사다리 게임 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B16928%5D%EB%B1%80%EA%B3%BC%20%EC%82%AC%EB%8B%A4%EB%A6%AC%20%EA%B2%8C%EC%9E%84)
+
   - [[16929]Two Dots - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B16929%5DTwo%20Dots)
 
   - [[16947]서울 지하철 2호선 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B16947%5D%EC%84%9C%EC%9A%B8%20%EC%A7%80%ED%95%98%EC%B2%A0%202%ED%98%B8%EC%84%A0)
