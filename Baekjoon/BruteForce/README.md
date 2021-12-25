@@ -22,6 +22,8 @@
 
   - [[7568]덩치 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B7568%5D%EB%8D%A9%EC%B9%98)
 
+  - [[14500]테트로미노 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B14500%5D%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)
+
   - [[14697]방 배정하기 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B14697%5D%EB%B0%A9%20%EB%B0%B0%EC%A0%95%ED%95%98%EA%B8%B0)
 
 ---
