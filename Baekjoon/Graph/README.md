@@ -26,6 +26,8 @@
 
   - [[1753]최단경로 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1753%5D%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)
 
+  - [[1865]웜홀 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1865%5D%EC%9B%9C%ED%99%80)
+
   - [[1916]최소비용 구하기 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1916%5D%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 
   - [[1926]그림 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1926%5D%EA%B7%B8%EB%A6%BC)
