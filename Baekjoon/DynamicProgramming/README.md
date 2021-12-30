@@ -16,6 +16,8 @@
 
   - [[1932]정수 삼각형 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1932%5D%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95)
 
+  - [[2096]내려가기 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2096%5D%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0)
+
   - [[2156]포도주 시식 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2156%5D%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D)
 
   - [[2278]피보나치 수 2 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2748%5D%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%202)
