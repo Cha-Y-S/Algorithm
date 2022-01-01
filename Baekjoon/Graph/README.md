@@ -74,6 +74,8 @@
 
   - [[11779]최소비용 구하기 2 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11779%5D%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%202)
 
+  - [[12851]숨바꼭질 2 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B12851%5D%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%202)
+
   - [[14442]벽 부수고 이동하기 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B14442%5D%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B02)
 
   - [[14502]연구소 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B14502%5D%EC%97%B0%EA%B5%AC%EC%86%8C)
