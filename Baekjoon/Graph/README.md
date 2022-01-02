@@ -90,6 +90,8 @@
 
   - [[16947]서울 지하철 2호선 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B16947%5D%EC%84%9C%EC%9A%B8%20%EC%A7%80%ED%95%98%EC%B2%A0%202%ED%98%B8%EC%84%A0)
 
+  - [[16953]A → B - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B16953%5DA%20%E2%86%92%20B)
+
   - [[17141]연구소 2 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B17141%5D%EC%97%B0%EA%B5%AC%EC%86%8C%202)
 
   - [[17142]연구소 3 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B17142%5D%EC%97%B0%EA%B5%AC%EC%86%8C%203)
