@@ -36,6 +36,8 @@
 
   - [[11053]가장 긴 증가하는 부분 수열 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11053%5D%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)
 
+  - [[11660]구간 합 구하기 5 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11660%5D%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%205)
+
   - [[11726]2×n 타일링 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11726%5D2%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81)
 
   - [[11727]2×n 타일링 2 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11727%5D2%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81%202)
