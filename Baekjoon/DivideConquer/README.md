@@ -24,6 +24,8 @@
 
   - [[10830]행렬 제곱 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B10830%5D%ED%96%89%EB%A0%AC%20%EC%A0%9C%EA%B3%B1)
 
+  - [[11444]피보나치 수 6 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B11444%5D%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%206)
+
   - [[12850]본대 산책2 - Gold 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DivideConquer/%5B12850%5D%EB%B3%B8%EB%8C%80%20%EC%82%B0%EC%B1%852)
 
 ---
