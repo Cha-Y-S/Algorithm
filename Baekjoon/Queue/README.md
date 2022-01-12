@@ -6,6 +6,8 @@
 
 ---
 
+  - [[1158]요세푸스 문제 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Queue/%5B1158%5D%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C)
+
   - [[1927]최소 힙 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Queue/%5B1927%5D%EC%B5%9C%EC%86%8C%20%ED%9E%99)
 
   - [[1966]프린터 큐 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Queue/%5B1966%5D%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90)
