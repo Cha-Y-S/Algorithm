@@ -8,6 +8,8 @@
 
   - [[1012]유기농 배추 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1012%5D%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94)
 
+  - [[1058]친구 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1058%5D%EC%B9%9C%EA%B5%AC)
+
   - [[1219]오민식의 고민 - Gold 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1219%5D%EC%98%A4%EB%AF%BC%EC%8B%9D%EC%9D%98%20%EA%B3%A0%EB%AF%BC)
 
   - [[1238]파티 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1238%5D%ED%8C%8C%ED%8B%B0)
