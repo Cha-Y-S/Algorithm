@@ -10,6 +10,8 @@
 
   - [[1149]RGB거리 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1149%5DRGB%EA%B1%B0%EB%A6%AC)
 
+  - [[1309]동물원 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1309%5D%EB%8F%99%EB%AC%BC%EC%9B%90)
+
   - [[1463]1로 만들기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1463%5D1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
   - [[1912]연속합 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1912%5D%EC%97%B0%EC%86%8D%ED%95%A9)
