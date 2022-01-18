@@ -24,6 +24,8 @@
 
   - [[1326]폴짝폴짝 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1326%5D%ED%8F%B4%EC%A7%9D%ED%8F%B4%EC%A7%9D)
 
+  - [[1388]바닥 장식 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1388%5D%EB%B0%94%EB%8B%A5%20%EC%9E%A5%EC%8B%9D)
+
   - [[1389]케빈 베이컨의 6단계 법칙 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1389%5D%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99)
 
   - [[1504]특정한 최단 경로 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1504%5D%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C)
