@@ -28,6 +28,8 @@
 
   - [[1389]케빈 베이컨의 6단계 법칙 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1389%5D%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99)
 
+  - [[1445]일요일 아침의 데이트 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1445%5D%EC%9D%BC%EC%9A%94%EC%9D%BC%20%EC%95%84%EC%B9%A8%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%8A%B8)
+
   - [[1504]특정한 최단 경로 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1504%5D%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C)
 
   - [[1697]숨바꼭질 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1697%5D%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)
