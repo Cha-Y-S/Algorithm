@@ -32,6 +32,8 @@
 
   - [[1504]특정한 최단 경로 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1504%5D%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C)
 
+  - [[1520]내리막 길 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1520%5D%EB%82%B4%EB%A6%AC%EB%A7%89%20%EA%B8%B8)
+
   - [[1697]숨바꼭질 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1697%5D%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)
 
   - [[1707]이분 그래프 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B1707%5D%EC%9D%B4%EB%B6%84%20%EA%B7%B8%EB%9E%98%ED%94%84)
