@@ -8,6 +8,8 @@
 
   - [[1018]체스판 다시 칠하기 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1018%5D%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0)
 
+  - [[1059]좋은 구간 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1059%5D%EC%A2%8B%EC%9D%80%20%EA%B5%AC%EA%B0%84)
+
   - [[1065]한수 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1065%5D%ED%95%9C%EC%88%98)
 
   - [[1107]리모컨 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1107%5D%EB%A6%AC%EB%AA%A8%EC%BB%A8)
