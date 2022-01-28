@@ -106,6 +106,8 @@
 
   - [[14938]서강그라운드 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B14938%5D%EC%84%9C%EA%B0%95%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C)
 
+  - [[14940]쉬운 최단거리 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B14940%5D%EC%89%AC%EC%9A%B4%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
+
   - [[16173]점프왕 쩰리 (Small) - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B16173%5D%EC%A0%90%ED%94%84%EC%99%95%20%EC%A9%B0%EB%A6%AC%20(Small))
 
   - [[16236]아기 상어 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B16236%5D%EC%95%84%EA%B8%B0%20%EC%83%81%EC%96%B4)
