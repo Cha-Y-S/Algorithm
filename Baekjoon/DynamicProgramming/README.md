@@ -62,6 +62,10 @@
 
   - [[15312]이름 궁합 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B15312%5D%EC%9D%B4%EB%A6%84%20%EA%B6%81%ED%95%A9)
 
+  - [[17202]핸드폰 번호 궁합 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B17202%5D%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B6%81%ED%95%A9)
+
   - [[17626]Four Squares - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B17626%5DFour%20Squares)
+
+  - [[24416]알고리즘 수업 - 피보나치 수 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B24416%5D%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%201)
 
 ---
