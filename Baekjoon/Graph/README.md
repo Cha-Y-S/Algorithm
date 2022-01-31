@@ -96,6 +96,8 @@
 
   - [[11779]최소비용 구하기 2 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11779%5D%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%202)
 
+  - [[12761]돌다리 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B12761%5D%EB%8F%8C%EB%8B%A4%EB%A6%AC)
+
   - [[12851]숨바꼭질 2 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B12851%5D%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%202)
 
   - [[13549]숨바꼭질 3 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B13549%5D%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%203)
