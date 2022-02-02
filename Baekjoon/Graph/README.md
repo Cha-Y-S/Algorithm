@@ -86,6 +86,8 @@
 
   - [[10216]Count Circle Groups - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B10216%5DCount%20Circle%20Groups)
 
+  - [[11060]점프 점프 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11060%5D%EC%A0%90%ED%94%84%20%EC%A0%90%ED%94%84)
+
   - [[11403]경로 찾기 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11403%5D%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0)
 
   - [[11404]플로이드 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11404%5D%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C)
