@@ -8,6 +8,8 @@
 
   - [[1063]킹 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1063%5D%ED%82%B9)
 
+  - [[1270]전쟁-땅따먹기 Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1270%5D%EC%A0%84%EC%9F%81-%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0)
+
   - [[1302]베스트셀러 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1302%5D%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC)
 
   - [[1620]나는야 포켓몬 마스터 이다솜 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1620%5D%EB%82%98%EB%8A%94%EC%95%BC%20%ED%8F%AC%EC%BC%93%EB%AA%AC%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EC%9D%B4%EB%8B%A4%EC%86%9C)
