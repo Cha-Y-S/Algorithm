@@ -72,6 +72,8 @@
 
   - [[5567]결혼식 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B5567%5D%EA%B2%B0%ED%98%BC%EC%8B%9D)
 
+  - [[6118]숨바꼭질 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B6118%5D%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)
+
   - [[7562]나이트의 이동 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B7562%5D%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99)
 
   - [[7569]토마토 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B7569%5D%ED%86%A0%EB%A7%88%ED%86%A0)
