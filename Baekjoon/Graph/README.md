@@ -138,4 +138,6 @@
 
   - [[18232]텔레포트 정거장 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B18232%5D%ED%85%94%EB%A0%88%ED%8F%AC%ED%8A%B8%20%EC%A0%95%EA%B1%B0%EC%9E%A5)
 
+  - [[21938]영상처리 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B21938%5D%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC)
+
 ---
