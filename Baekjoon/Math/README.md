@@ -16,6 +16,8 @@
 
   - [[1037]약수 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1037%5D%EC%95%BD%EC%88%98)
 
+  - [[1124]언더프라임 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1124%5D%EC%96%B8%EB%8D%94%ED%94%84%EB%9D%BC%EC%9E%84)
+
   - [[1644]소수의 연속합 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1644%5D%EC%86%8C%EC%88%98%EC%9D%98%20%EC%97%B0%EC%86%8D%ED%95%A9)
 
   - [[1676]팩토리얼 0의 개수 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1676%5D%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98)
