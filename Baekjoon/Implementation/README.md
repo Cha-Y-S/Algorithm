@@ -6,6 +6,8 @@
 
 ---
 
+  - [[1032]명령 프롬프트 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1032%5D%EB%AA%85%EB%A0%B9%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8)
+
   - [[1063]킹 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1063%5D%ED%82%B9)
 
   - [[1205]등수 구하기 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1205%5D%EB%93%B1%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0)
