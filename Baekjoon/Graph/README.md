@@ -108,6 +108,8 @@
 
   - [[13565]침투 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B13565%5D%EC%B9%A8%ED%88%AC)
 
+  - [[14248]점프 점프 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B14248%5D%EC%A0%90%ED%94%84%20%EC%A0%90%ED%94%84)
+
   - [[14442]벽 부수고 이동하기 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B14442%5D%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B02)
 
   - [[14502]연구소 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B14502%5D%EC%97%B0%EA%B5%AC%EC%86%8C)
