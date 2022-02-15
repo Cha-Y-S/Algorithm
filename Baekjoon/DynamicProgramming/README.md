@@ -60,6 +60,8 @@
 
   - [[14501]퇴사 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B14501%5D%ED%87%B4%EC%82%AC)
 
+  - [[14916]거스름돈 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B14916%5D%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)
+
   - [[15312]이름 궁합 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B15312%5D%EC%9D%B4%EB%A6%84%20%EA%B6%81%ED%95%A9)
 
   - [[17202]핸드폰 번호 궁합 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B17202%5D%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B6%81%ED%95%A9)
