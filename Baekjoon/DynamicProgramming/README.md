@@ -32,6 +32,8 @@
 
   - [[2670]연속부분최대곱 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2670%5D%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%B5%9C%EB%8C%80%EA%B3%B1)
 
+  - [[8394]악수 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B8394%5D%EC%95%85%EC%88%98)
+
   - [[9095]1, 2, 3 더하기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9095%5D1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0)
 
   - [[9461]파도반 수열 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9461%5D%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4)
