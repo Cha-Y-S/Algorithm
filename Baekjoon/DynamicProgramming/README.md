@@ -66,6 +66,8 @@
 
   - [[14501]퇴사 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B14501%5D%ED%87%B4%EC%82%AC)
 
+  - [[14606]피자(Small) - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B14606%5D%ED%94%BC%EC%9E%90(Small))
+
   - [[14916]거스름돈 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B14916%5D%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)
 
   - [[15312]이름 궁합 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B15312%5D%EC%9D%B4%EB%A6%84%20%EA%B6%81%ED%95%A9)
