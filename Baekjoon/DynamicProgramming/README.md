@@ -62,6 +62,8 @@
 
   - [[13398]연속합 2 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B13398%5D%EC%97%B0%EC%86%8D%ED%95%A9%202)
 
+  - [[13699]점화식 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B13699%5D%EC%A0%90%ED%99%94%EC%8B%9D)
+
   - [[14501]퇴사 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B14501%5D%ED%87%B4%EC%82%AC)
 
   - [[14916]거스름돈 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B14916%5D%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)
