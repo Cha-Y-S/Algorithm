@@ -1,2 +1,13 @@
-*.exe
+# Ignore all
+*
+
+# Uignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Java
 *.class
+
+.DS_Store
