@@ -28,6 +28,8 @@
 
   - [[2278]피보나치 수 2 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2748%5D%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%202)
 
+  - [[2491]수열 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2491%5D%EC%88%98%EC%97%B4)
+
   - [[2579]계단 오르기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2579%5D%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0)
 
   - [[2670]연속부분최대곱 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2670%5D%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%B5%9C%EB%8C%80%EA%B3%B1)
@@ -87,5 +89,7 @@
   - [[19947]투자의 귀재 배주형 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B19947%5D%ED%88%AC%EC%9E%90%EC%9D%98%20%EA%B7%80%EC%9E%AC%20%EB%B0%B0%EC%A3%BC%ED%98%95)
 
   - [[24416]알고리즘 수업 - 피보나치 수 1 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B24416%5D%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%201)
+
+  - [[24417]알고리즘 수업 - 피보나치 수 2 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B24417%5D%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%202)
 
 ---
