@@ -16,6 +16,8 @@
 
   - [[1463]1로 만들기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1463%5D1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+  - [[1788]피보나치 수의 확장 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1788%5D%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%EC%9D%98%20%ED%99%95%EC%9E%A5)
+
   - [[1904]01타일 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1904%5D01%ED%83%80%EC%9D%BC)
 
   - [[1912]연속합 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B1912%5D%EC%97%B0%EC%86%8D%ED%95%A9)
