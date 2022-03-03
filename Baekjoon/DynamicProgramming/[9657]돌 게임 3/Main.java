@@ -24,5 +24,7 @@ public class Main {
     }
 
     System.out.println(dp[N] == 1 ? "SK" : "CY");
+
+    sc.close();
   }
 }
