@@ -48,6 +48,8 @@
 
   - [[9657]돌 게임 3 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9657%5D%EB%8F%8C%20%EA%B2%8C%EC%9E%84%203)
 
+  - [[9658]돌 게임 4 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9658%5D%EB%8F%8C%20%EA%B2%8C%EC%9E%84%204)
+
   - [[10826]피보나치 수 4 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B10826%5D%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%204)
 
   - [[10844]쉬운 계단 수 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B10844%5D%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98)
