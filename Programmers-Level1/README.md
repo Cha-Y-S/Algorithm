@@ -138,6 +138,8 @@
 
   - [숫자 문자열과 영단어 - 2021 카카오 채용연계형 인턴십](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)
 
+  - [신고 결과 받기 - 2022 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0)
+
 ---
 
 ### Dev-Matching
