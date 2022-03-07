@@ -102,6 +102,8 @@
 
   - [[17484]진우의 달 여행 (Small) - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B17484%5D%EC%A7%84%EC%9A%B0%EC%9D%98%20%EB%8B%AC%20%EC%97%AC%ED%96%89%20(Small))
 
+  - [[17485]진우의 달 여행 (Large) - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B17485%5D%EC%A7%84%EC%9A%B0%EC%9D%98%20%EB%8B%AC%20%EC%97%AC%ED%96%89%20(Large))
+
   - [[17626]Four Squares - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B17626%5DFour%20Squares)
 
   - [[19947]투자의 귀재 배주형 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B19947%5D%ED%88%AC%EC%9E%90%EC%9D%98%20%EA%B7%80%EC%9E%AC%20%EB%B0%B0%EC%A3%BC%ED%98%95)
