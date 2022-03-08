@@ -20,4 +20,6 @@
 
   - [[2637]장난감 조립 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B2637%5D%EC%9E%A5%EB%82%9C%EA%B0%90%20%EC%A1%B0%EB%A6%BD)
 
+  - [[14567]선수과목 (Prerequisite) - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/TopologicalSort/%5B14567%5D%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9%20(Prerequisite))
+
 ---
