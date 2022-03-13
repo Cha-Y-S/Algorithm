@@ -90,6 +90,8 @@
 
   - [[11060]점프 점프 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11060%5D%EC%A0%90%ED%94%84%20%EC%A0%90%ED%94%84)
 
+  - [[11123]양 한마리... 양 두마리... - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11123%5D%EC%96%91%20%ED%95%9C%EB%A7%88%EB%A6%AC%EF%BC%8E%EF%BC%8E%EF%BC%8E%20%EC%96%91%20%EB%91%90%EB%A7%88%EB%A6%AC%EF%BC%8E%EF%BC%8E%EF%BC%8E)
+
   - [[11403]경로 찾기 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11403%5D%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0)
 
   - [[11404]플로이드 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B11404%5D%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C)
