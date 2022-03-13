@@ -110,6 +110,12 @@
 
 ---
 
+### 월간 코드 챌린지 시즌 3
+
+  - [n^2 배열 자르기 - 월간 코드 챌린지 시즌 3](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0)
+
+---
+
 ### 팁스타운
 
   - [예상 대진표 - 2017 팁스타운](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C)
