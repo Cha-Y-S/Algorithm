@@ -18,15 +18,15 @@
 
 예를 들어, 아래와 같은 6 × 5 이미지가 있다.
 
-<img alt="" src="/upload/images/filter1.gif" style="height:160px; width:200px">
+<img alt="" src="https://www.acmicpc.net/upload/images/filter1.gif" style="height:160px; width:200px">
 
 필터링된 이미지의 크기는 4 × 3이고, 아래와 같다.
 
-<img alt="" src="/upload/images/filter2.gif" style="height:110px; width:150px">
+<img alt="" src="https://www.acmicpc.net/upload/images/filter2.gif" style="height:110px; width:150px">
 
 가장 왼쪽 윗 행에 필터를 두고, 오른쪽으로 움직이면서 중앙값을 찾는다. 한 행을 모두 이동했으면, 다음 행으로 이동해 다시 중앙값을 찾는다. 아래와 같은 순서를 가진다.
 
-<img alt="" src="/upload/images/filter3.gif" style="height:160px; width:460px">
+<img alt="" src="https://www.acmicpc.net/upload/images/filter3.gif" style="height:160px; width:460px">
 
 위의 그림에서 각각의 중앙값은 36, 36, 21이 된다. 이 값은 필터링된 이미지 J의 첫 행과 같다. 
 
