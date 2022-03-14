@@ -16,6 +16,8 @@
 
   - [[1436]영화감독 숌 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1436%5D%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C)
 
+  - [[1895]필터 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1895%5D%ED%95%84%ED%84%B0)
+
   - [[2231]분해합 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B2231%5D%EB%B6%84%ED%95%B4%ED%95%A9)
 
   - [[2309]일곱 난쟁이 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B2309%5D%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4)
