@@ -20,6 +20,8 @@
 
   - [[2751]수 정렬하기 2 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2751%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202)
 
+  - [[2822]점수 계산 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2822%5D%EC%A0%90%EC%88%98%20%EA%B3%84%EC%82%B0)
+
   - [[5800]성적 통계 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B5800%5D%EC%84%B1%EC%A0%81%20%ED%86%B5%EA%B3%84)
 
   - [[10814]나이순 정렬 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B10814%5D%EB%82%98%EC%9D%B4%EC%88%9C%20%EC%A0%95%EB%A0%AC)
