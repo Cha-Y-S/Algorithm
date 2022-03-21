@@ -14,6 +14,8 @@
 
   - [[2108]통계학 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2108%5D%ED%86%B5%EA%B3%84%ED%95%99)
 
+  - [[2535]아시아 정보올림피아드 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2535%5D%EC%95%84%EC%8B%9C%EC%95%84%20%EC%A0%95%EB%B3%B4%EC%98%AC%EB%A6%BC%ED%94%BC%EC%95%84%EB%93%9C)
+
   - [[2693]N번째 큰 수 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2693%5DN%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98)
 
   - [[2750]수 정렬하기 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2750%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
