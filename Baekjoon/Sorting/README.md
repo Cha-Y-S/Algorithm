@@ -34,6 +34,8 @@
 
   - [[10989]수 정렬하기 3 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B10989%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%203)
 
+  - [[11004]K번째 수 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B11004%5DK%EB%B2%88%EC%A7%B8%20%EC%88%98)
+
   - [[11292]키 큰 사람 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B11292%5D%ED%82%A4%20%ED%81%B0%20%EC%82%AC%EB%9E%8C)
 
   - [[11399]ATM - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B11399%5DATM)
