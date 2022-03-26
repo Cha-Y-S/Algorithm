@@ -32,6 +32,8 @@
 
   - [[10814]나이순 정렬 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B10814%5D%EB%82%98%EC%9D%B4%EC%88%9C%20%EC%A0%95%EB%A0%AC)
 
+  - [[10867]중복 빼고 정렬하기 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B10867%5D%EC%A4%91%EB%B3%B5%20%EB%B9%BC%EA%B3%A0%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+
   - [[10989]수 정렬하기 3 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B10989%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%203)
 
   - [[11004]K번째 수 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B11004%5DK%EB%B2%88%EC%A7%B8%20%EC%88%98)
