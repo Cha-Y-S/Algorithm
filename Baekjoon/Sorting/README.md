@@ -52,6 +52,8 @@
 
   - [[11931]수 정렬하기 4 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B11931%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%204)
 
+  - [[15688]수 정렬하기 5 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B15688%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%205)
+
   - [[15702]중간고사 채점 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B15702%5D%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC%20%EC%B1%84%EC%A0%90)
 
   - [[16435]스네이크버드 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B16435%5D%EC%8A%A4%EB%84%A4%EC%9D%B4%ED%81%AC%EB%B2%84%EB%93%9C)
