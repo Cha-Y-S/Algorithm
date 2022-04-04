@@ -52,6 +52,8 @@
 
   - [[11651]좌표 정렬하기 2 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B11651%5D%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202)
 
+  - [[11656]접미사 배열 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B11656%5D%EC%A0%91%EB%AF%B8%EC%82%AC%20%EB%B0%B0%EC%97%B4)
+
   - [[11931]수 정렬하기 4 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B11931%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%204)
 
   - [[15688]수 정렬하기 5 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B15688%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%205)
