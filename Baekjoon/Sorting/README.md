@@ -12,6 +12,12 @@
 
   - [[1427]소트인사이드 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B1427%5D%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C)
 
+  - [[1431]시리얼 번호 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B1431%5D%EC%8B%9C%EB%A6%AC%EC%96%BC%20%EB%B2%88%ED%98%B8)
+
+  - [[1448]삼각형 만들기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B1448%5D%EC%82%BC%EA%B0%81%ED%98%95%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
+  - [[1900]레슬러 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B1900%5D%EB%A0%88%EC%8A%AC%EB%9F%AC)
+
   - [[2108]통계학 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2108%5D%ED%86%B5%EA%B3%84%ED%95%99)
 
   - [[2204]도비의 난독증 테스트 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2204%5D%EB%8F%84%EB%B9%84%EC%9D%98%20%EB%82%9C%EB%8F%85%EC%A6%9D%20%ED%85%8C%EC%8A%A4%ED%8A%B8)
