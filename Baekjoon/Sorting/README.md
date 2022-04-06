@@ -18,17 +18,23 @@
 
   - [[1900]레슬러 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B1900%5D%EB%A0%88%EC%8A%AC%EB%9F%AC)
 
+  - [[2012]등수 매기기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2012%5D%EB%93%B1%EC%88%98%20%EB%A7%A4%EA%B8%B0%EA%B8%B0)
+
   - [[2108]통계학 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2108%5D%ED%86%B5%EA%B3%84%ED%95%99)
 
   - [[2204]도비의 난독증 테스트 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2204%5D%EB%8F%84%EB%B9%84%EC%9D%98%20%EB%82%9C%EB%8F%85%EC%A6%9D%20%ED%85%8C%EC%8A%A4%ED%8A%B8)
 
   - [[2535]아시아 정보올림피아드 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2535%5D%EC%95%84%EC%8B%9C%EC%95%84%20%EC%A0%95%EB%B3%B4%EC%98%AC%EB%A6%BC%ED%94%BC%EC%95%84%EB%93%9C)
 
+  - [[2548]대표 자연수 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2548%5D%EB%8C%80%ED%91%9C%20%EC%9E%90%EC%97%B0%EC%88%98)
+
   - [[2693]N번째 큰 수 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2693%5DN%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98)
 
   - [[2750]수 정렬하기 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2750%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
 
   - [[2751]수 정렬하기 2 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2751%5D%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202)
+
+  - [[2817]ALPS식 투표 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2817%5DALPS%EC%8B%9D%20%ED%88%AC%ED%91%9C)
 
   - [[2822]점수 계산 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2822%5D%EC%A0%90%EC%88%98%20%EA%B3%84%EC%82%B0)
 
