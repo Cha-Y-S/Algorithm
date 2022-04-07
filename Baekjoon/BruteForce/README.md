@@ -20,6 +20,8 @@
 
   - [[2231]분해합 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B2231%5D%EB%B6%84%ED%95%B4%ED%95%A9)
 
+  - [[2303]숫자 게임 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B2303%5D%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84)
+
   - [[2309]일곱 난쟁이 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B2309%5D%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4)
 
   - [[2798]블랙잭 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B2798%5D%EB%B8%94%EB%9E%99%EC%9E%AD)
