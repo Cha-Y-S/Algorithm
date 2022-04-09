@@ -72,6 +72,8 @@
 
   - [[3055]탈출 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B3055%5D%ED%83%88%EC%B6%9C)
 
+  - [[3182]한동이는 공부가 하기 싫어! - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B3182%5D%ED%95%9C%EB%8F%99%EC%9D%B4%EB%8A%94%20%EA%B3%B5%EB%B6%80%EA%B0%80%20%ED%95%98%EA%B8%B0%20%EC%8B%AB%EC%96%B4!)
+
   - [[4963]섬의 개수 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B4963%5D%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98)
 
   - [[5567]결혼식 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B5567%5D%EA%B2%B0%ED%98%BC%EC%8B%9D)
