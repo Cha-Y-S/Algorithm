@@ -12,6 +12,8 @@
 
   - [[1205]등수 구하기 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1205%5D%EB%93%B1%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 
+  - [[1212]8진수 2진수 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1212%5D8%EC%A7%84%EC%88%98%202%EC%A7%84%EC%88%98)
+
   - [[1270]전쟁-땅따먹기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1270%5D%EC%A0%84%EC%9F%81-%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0)
 
   - [[1302]베스트셀러 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1302%5D%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC)
