@@ -160,6 +160,8 @@
 
   - [거리두기 확인하기 - 2021 카카오 채용연계형 인턴십](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
+  - [주차 요금 계산 - 2022 KAKAO BLIND RECRUITMENT](https://github.com/firemancha/Algorithm/tree/main/Programmers-Level2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0)
+
 ---
 
 ### Summer/Winter Coding(~2018)
