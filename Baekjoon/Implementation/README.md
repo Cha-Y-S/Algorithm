@@ -16,6 +16,8 @@
 
   - [[1270]전쟁-땅따먹기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1270%5D%EC%A0%84%EC%9F%81-%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0)
 
+  - [[1292]쉽게 푸는 문제 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1292%5D%EC%89%BD%EA%B2%8C%20%ED%91%B8%EB%8A%94%20%EB%AC%B8%EC%A0%9C)
+
   - [[1302]베스트셀러 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1302%5D%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC)
 
   - [[1380]귀걸이 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1380%5D%EA%B7%80%EA%B1%B8%EC%9D%B4)
