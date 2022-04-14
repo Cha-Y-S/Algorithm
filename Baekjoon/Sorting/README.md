@@ -38,6 +38,8 @@
 
   - [[2822]점수 계산 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2822%5D%EC%A0%90%EC%88%98%20%EA%B3%84%EC%82%B0)
 
+  - [[2993]세 부분 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B2993%5D%EC%84%B8%20%EB%B6%80%EB%B6%84)
+
   - [[5625]생일 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B5625%5D%EC%83%9D%EC%9D%BC)
 
   - [[5800]성적 통계 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting/%5B5800%5D%EC%84%B1%EC%A0%81%20%ED%86%B5%EA%B3%84)
