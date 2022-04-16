@@ -70,6 +70,8 @@
 
   - [[12101]1, 2, 3 더하기 2 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B12101%5D1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0%202)
 
+  - [[12852]1로 만들기 2 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B12852%5D1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0%202)
+
   - [[12865]평범한 배낭 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B12865%5D%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD)
 
   - [[13301]타일 장식물 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B13301%5D%ED%83%80%EC%9D%BC%20%EC%9E%A5%EC%8B%9D%EB%AC%BC)
