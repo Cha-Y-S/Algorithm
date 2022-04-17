@@ -62,7 +62,11 @@
 
   - [[11053]가장 긴 증가하는 부분 수열 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11053%5D%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)
 
+  - [[11055]가장 큰 증가 부분 수열 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11055%5D%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A6%9D%EA%B0%80%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)
+
   - [[11660]구간 합 구하기 5 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11660%5D%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%205)
+
+  - [[11722]가장 긴 감소하는 부분 수열 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11722%5D%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)
 
   - [[11726]2×n 타일링 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11726%5D2%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81)
 
@@ -111,6 +115,8 @@
   - [[17485]진우의 달 여행 (Large) - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B17485%5D%EC%A7%84%EC%9A%B0%EC%9D%98%20%EB%8B%AC%20%EC%97%AC%ED%96%89%20(Large))
 
   - [[17626]Four Squares - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B17626%5DFour%20Squares)
+
+  - [[18353]병사 배치하기 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B18353%5D%EB%B3%91%EC%82%AC%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
 
   - [[19947]투자의 귀재 배주형 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B19947%5D%ED%88%AC%EC%9E%90%EC%9D%98%20%EA%B7%80%EC%9E%AC%20%EB%B0%B0%EC%A3%BC%ED%98%95)
 
