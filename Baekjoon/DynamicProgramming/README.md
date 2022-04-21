@@ -62,6 +62,8 @@
 
   - [[11053]가장 긴 증가하는 부분 수열 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11053%5D%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)
 
+  - [[11054]가장 긴 바이토닉 부분 수열 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11054%5D%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)
+
   - [[11055]가장 큰 증가 부분 수열 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11055%5D%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A6%9D%EA%B0%80%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)
 
   - [[11660]구간 합 구하기 5 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11660%5D%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%205)
