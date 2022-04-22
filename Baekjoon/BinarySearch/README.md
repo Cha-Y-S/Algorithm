@@ -12,6 +12,8 @@
 
   - [[2110]공유기 설치 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B2110%5D%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98)
 
+  - [[2352]반도체 설계 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B2352%5D%EB%B0%98%EB%8F%84%EC%B2%B4%20%EC%84%A4%EA%B3%84)
+
   - [[2805]나무 자르기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B2805%5D%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0)
 
   - [[7795]먹을 것인가 먹힐 것인가 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B7795%5D%EB%A8%B9%EC%9D%84%20%EA%B2%83%EC%9D%B8%EA%B0%80%20%EB%A8%B9%ED%9E%90%20%EA%B2%83%EC%9D%B8%EA%B0%80)
