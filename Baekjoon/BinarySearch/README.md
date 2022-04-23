@@ -6,7 +6,9 @@
 
 ---
 
-  - [[1300]K번째 수 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B1300%5DK%EB%B2%88%EC%A7%B8%20%EC%88%98)
+  - [[1300]K번째 수 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B1300%5DK%EB%B2%88%EC%A7%B8%20%EC%88%98)
+
+  - [[1365]꼬인 전깃줄 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B1365%5D%EA%BC%AC%EC%9D%B8%20%EC%A0%84%EA%B9%83%EC%A4%84)
 
   - [[1654]랜선 자르기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B1654%5D%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0)
 
