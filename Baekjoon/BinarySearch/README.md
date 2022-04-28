@@ -18,6 +18,8 @@
 
   - [[2352]반도체 설계 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B2352%5D%EB%B0%98%EB%8F%84%EC%B2%B4%20%EC%84%A4%EA%B3%84)
 
+  - [[2550]전구 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B2550%5D%EC%A0%84%EA%B5%AC)
+
   - [[2805]나무 자르기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B2805%5D%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0)
 
   - [[3066]브리징 시그널 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B3066%5D%EB%B8%8C%EB%A6%AC%EC%A7%95%20%EC%8B%9C%EA%B7%B8%EB%84%90)
