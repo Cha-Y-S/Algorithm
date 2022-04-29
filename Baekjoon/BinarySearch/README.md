@@ -34,6 +34,8 @@
 
   - [[12738]가장 긴 증가하는 부분 수열 3 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B12738%5D%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%203)
 
+  - [[13711]LCS 4 - Gold 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B13711%5DLCS%204)
+
   - [[14003]가장 긴 증가하는 부분 수열 5 - Platinum 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B14003%5D%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%205)
 
 ---
