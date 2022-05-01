@@ -38,6 +38,8 @@
 
   - [[14003]가장 긴 증가하는 부분 수열 5 - Platinum 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B14003%5D%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%205)
 
+  - [[15015]Manhattan Mornings - Gold 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B15015%5DManhattan%20Mornings)
+
   - [[23035]가톨릭대는 고양이를 사랑해 - Platinum 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B23035%5D%EA%B0%80%ED%86%A8%EB%A6%AD%EB%8C%80%EB%8A%94%20%EA%B3%A0%EC%96%91%EC%9D%B4%EB%A5%BC%20%EC%82%AC%EB%9E%91%ED%95%B4)
 
 ---
