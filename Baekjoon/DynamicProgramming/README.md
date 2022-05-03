@@ -34,6 +34,8 @@
 
   - [[2491]수열 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2491%5D%EC%88%98%EC%97%B4)
 
+  - [[2565]전깃줄 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2565%5D%EC%A0%84%EA%B9%83%EC%A4%84)
+
   - [[2579]계단 오르기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2579%5D%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0)
 
   - [[2670]연속부분최대곱 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B2670%5D%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%B5%9C%EB%8C%80%EA%B3%B1)
