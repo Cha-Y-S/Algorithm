@@ -50,6 +50,8 @@
 
   - [[4673]셀프 넘버 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B4673%5D%EC%85%80%ED%94%84%20%EB%84%98%EB%B2%84)
 
+  - [[5596]시험 점수 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B5596%5D%EC%8B%9C%ED%97%98%20%EC%A0%90%EC%88%98)
+
   - [[6064]카잉 달력 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B6064%5D%EC%B9%B4%EC%9E%89%20%EB%8B%AC%EB%A0%A5)
 
   - [[6558]골든바흐의 추측 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B6588%5D%EA%B3%A8%EB%93%A0%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1)
