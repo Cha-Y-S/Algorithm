@@ -46,6 +46,8 @@
 
   - [[9095]1, 2, 3 더하기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9095%5D1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0)
 
+  - [[9251]LCS - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9251%5DLCS)
+
   - [[9461]파도반 수열 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9461%5D%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4)
 
   - [[9465]스티커 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B9465%5D%EC%8A%A4%ED%8B%B0%EC%BB%A4)
