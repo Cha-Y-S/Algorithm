@@ -28,6 +28,8 @@
 
   - [[1822]차집합 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1822%5D%EC%B0%A8%EC%A7%91%ED%95%A9)
 
+  - [[2776]암기왕 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2776%5D%EC%95%94%EA%B8%B0%EC%99%95)
+
   - [[5430]AC - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B5430%5DAC)
 
   - [[11659]구간 합 구하기 4 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B11659%5D%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B04)
