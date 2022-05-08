@@ -28,6 +28,8 @@
 
   - [[3745]오름세 - Gold 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B3745%5D%EC%98%A4%EB%A6%84%EC%84%B8)
 
+  - [[4158]CD - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B4158%5DCD)
+
   - [[7795]먹을 것인가 먹힐 것인가 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B7795%5D%EB%A8%B9%EC%9D%84%20%EA%B2%83%EC%9D%B8%EA%B0%80%20%EB%A8%B9%ED%9E%90%20%EA%B2%83%EC%9D%B8%EA%B0%80)
 
   - [[9702]LIS - Gold 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B9702%5DLIS)
