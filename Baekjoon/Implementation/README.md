@@ -38,6 +38,8 @@
 
   - [[14503]로봇 청소기 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B14503%5D%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0)
 
+  - [[11478]서로 다른 부분 문자열의 개수 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B11478%5D%EC%84%9C%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)
+
   - [[15686]치킨 배달 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B15686%5D%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC)
 
   - [[16926]배열 돌리기 1 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B16926%5D%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%201)
