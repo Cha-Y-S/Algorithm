@@ -36,6 +36,8 @@
 
   - [[9733]꿀벌 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B9733%5D%EA%BF%80%EB%B2%8C)
 
+  - [[10546]배부른 마라토너 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B10546%5D%EB%B0%B0%EB%B6%80%EB%A5%B8%20%EB%A7%88%EB%9D%BC%ED%86%A0%EB%84%88)
+
   - [[11659]구간 합 구하기 4 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B11659%5D%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B04)
 
   - [[14503]로봇 청소기 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B14503%5D%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0)
