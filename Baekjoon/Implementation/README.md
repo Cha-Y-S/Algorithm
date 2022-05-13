@@ -46,6 +46,8 @@
 
   - [[15686]치킨 배달 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B15686%5D%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC)
 
+  - [[16499]동일한 단어 그룹화하기 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B16499%5D%EB%8F%99%EC%9D%BC%ED%95%9C%20%EB%8B%A8%EC%96%B4%20%EA%B7%B8%EB%A3%B9%ED%99%94%ED%95%98%EA%B8%B0)
+
   - [[16926]배열 돌리기 1 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B16926%5D%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%201)
 
   - [[17219]비밀번호 찾기 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B17219%5D%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%B0%BE%EA%B8%B0)
