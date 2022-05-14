@@ -30,6 +30,8 @@
 
   - [[2776]암기왕 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2776%5D%EC%95%94%EA%B8%B0%EC%99%95)
 
+  - [[2910]빈도 정렬 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2910%5D%EB%B9%88%EB%8F%84%20%EC%A0%95%EB%A0%AC)
+
   - [[5430]AC - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B5430%5DAC)
 
   - [[7785]회사에 있는 사람 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B7785%5D%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C)
