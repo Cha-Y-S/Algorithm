@@ -50,6 +50,8 @@
 
   - [[13414]수강신청 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B13414%5D%EC%88%98%EA%B0%95%EC%8B%A0%EC%B2%AD)
 
+  - [[13866]팀 나누기 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B13866%5D%ED%8C%80%20%EB%82%98%EB%88%84%EA%B8%B0)
+
   - [[15686]치킨 배달 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B15686%5D%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC)
 
   - [[16499]동일한 단어 그룹화하기 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B16499%5D%EB%8F%99%EC%9D%BC%ED%95%9C%20%EB%8B%A8%EC%96%B4%20%EA%B7%B8%EB%A3%B9%ED%99%94%ED%95%98%EA%B8%B0)
