@@ -38,6 +38,8 @@
 
   - [[7785]회사에 있는 사람 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B7785%5D%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C)
 
+  - [[9575]행운의 수 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B9575%5D%ED%96%89%EC%9A%B4%EC%9D%98%20%EC%88%98)
+
   - [[9733]꿀벌 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B9733%5D%EA%BF%80%EB%B2%8C)
 
   - [[10546]배부른 마라토너 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B10546%5D%EB%B0%B0%EB%B6%80%EB%A5%B8%20%EB%A7%88%EB%9D%BC%ED%86%A0%EB%84%88)
