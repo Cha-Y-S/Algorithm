@@ -76,6 +76,8 @@
 
   - [[11653]소인수분해 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B11653%5D%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)
 
+  - [[11948]과목선택 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B11948%5D%EA%B3%BC%EB%AA%A9%EC%84%A0%ED%83%9D)
+
   - [[14681]사분면 고르기 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B14681%5D%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)
 
   - [[15740]A+B - 9 - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B15740%5DA%2BB%20-%209)
