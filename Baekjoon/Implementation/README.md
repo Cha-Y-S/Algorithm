@@ -28,6 +28,8 @@
 
   - [[1822]차집합 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1822%5D%EC%B0%A8%EC%A7%91%ED%95%A9)
 
+  - [[2490]윷놀이 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2490%5D%EC%9C%B7%EB%86%80%EC%9D%B4)
+
   - [[2776]암기왕 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2776%5D%EC%95%94%EA%B8%B0%EC%99%95)
 
   - [[2910]빈도 정렬 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2910%5D%EB%B9%88%EB%8F%84%20%EC%A0%95%EB%A0%AC)
