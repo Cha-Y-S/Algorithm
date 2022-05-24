@@ -44,6 +44,8 @@
 
   - [[2775]부녀회장이 될테야 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2775%5D%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%20%EB%90%A0%ED%85%8C%EC%95%BC)
 
+  - [[2875]대회 or 인턴 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2875%5D%EB%8C%80%ED%9A%8C%20or%20%EC%9D%B8%ED%84%B4)
+
   - [[2960]에라토스테네스의 체 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2960%5D%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4)
 
   - [[3036]링 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B3036%5D%EB%A7%81)
