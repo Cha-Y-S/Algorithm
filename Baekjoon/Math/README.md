@@ -36,11 +36,15 @@
 
   - [[2436]공약수 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2436%5D%EA%B3%B5%EC%95%BD%EC%88%98)
 
+  - [[2576]홀수 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2576%5D%ED%99%80%EC%88%98)
+
   - [[2609]최대공약수와 최소공배수 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2609%5D%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
 
   - [[2739]구구단 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2739%5D%EA%B5%AC%EA%B5%AC%EB%8B%A8)
 
   - [[2775]부녀회장이 될테야 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2775%5D%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%20%EB%90%A0%ED%85%8C%EC%95%BC)
+
+  - [[2875]대회 or 인턴 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2875%5D%EB%8C%80%ED%9A%8C%20or%20%EC%9D%B8%ED%84%B4)
 
   - [[2960]에라토스테네스의 체 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2960%5D%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4)
 
@@ -51,6 +55,8 @@
   - [[4673]셀프 넘버 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B4673%5D%EC%85%80%ED%94%84%20%EB%84%98%EB%B2%84)
 
   - [[5596]시험 점수 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B5596%5D%EC%8B%9C%ED%97%98%20%EC%A0%90%EC%88%98)
+
+  - [[5893]17배 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B5893%5D17%EB%B0%B0)
 
   - [[6064]카잉 달력 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B6064%5D%EC%B9%B4%EC%9E%89%20%EB%8B%AC%EB%A0%A5)
 
@@ -75,6 +81,8 @@
   - [[10998]A×B - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B10998%5DA%C3%97B)
 
   - [[11653]소인수분해 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B11653%5D%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)
+
+  - [[11948]과목선택 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B11948%5D%EA%B3%BC%EB%AA%A9%EC%84%A0%ED%83%9D)
 
   - [[14681]사분면 고르기 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B14681%5D%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)
 
