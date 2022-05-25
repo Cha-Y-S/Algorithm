@@ -30,6 +30,8 @@
 
   - [[1963]최소공배수 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B1934%5D%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
 
+  - [[2010]플러그 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2010%5D%ED%94%8C%EB%9F%AC%EA%B7%B8)
+
   - [[2292]벌집 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2292%5D%EB%B2%8C%EC%A7%91)
 
   - [[2312]수 복원하기 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2312%5D%EC%88%98%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0)
