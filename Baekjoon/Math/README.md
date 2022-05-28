@@ -100,4 +100,6 @@
 
   - [[17103]골든바흐 파티션 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B17103%5D%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%20%ED%8C%8C%ED%8B%B0%EC%85%98)
 
+  - [[19698]헛간 청약 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B19698%5D%ED%97%9B%EA%B0%84%20%EC%B2%AD%EC%95%BD)
+
 ---
