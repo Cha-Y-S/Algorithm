@@ -58,6 +58,8 @@
 
   - [[4673]셀프 넘버 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B4673%5D%EC%85%80%ED%94%84%20%EB%84%98%EB%B2%84)
 
+  - [[4766]일반 화학 실험 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B4766%5D%EC%9D%BC%EB%B0%98%20%ED%99%94%ED%95%99%20%EC%8B%A4%ED%97%98)
+
   - [[5596]시험 점수 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B5596%5D%EC%8B%9C%ED%97%98%20%EC%A0%90%EC%88%98)
 
   - [[5893]17배 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B5893%5D17%EB%B0%B0)
