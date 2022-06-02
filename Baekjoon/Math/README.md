@@ -52,6 +52,8 @@
 
   - [[2960]에라토스테네스의 체 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2960%5D%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4)
 
+  - [[2965]캥거루 세마리 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B2965%5D%EC%BA%A5%EA%B1%B0%EB%A3%A8%20%EC%84%B8%EB%A7%88%EB%A6%AC)
+
   - [[3036]링 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B3036%5D%EB%A7%81)
 
   - [[3896]소수 사이 수열 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math/%5B3896%5D%EC%86%8C%EC%88%98%20%EC%82%AC%EC%9D%B4%20%EC%88%98%EC%97%B4)
