@@ -36,6 +36,8 @@
 
   - [[2910]빈도 정렬 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2910%5D%EB%B9%88%EB%8F%84%20%EC%A0%95%EB%A0%AC)
 
+  - [[4101]크냐? - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B4101%5D%ED%81%AC%EB%83%90%3F)
+
   - [[4358]생태학 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B4358%5D%EC%83%9D%ED%83%9C%ED%95%99)
 
   - [[5217]쌍의 합 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B5217%5D%EC%8C%8D%EC%9D%98%20%ED%95%A9)
