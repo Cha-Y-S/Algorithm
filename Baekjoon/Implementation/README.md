@@ -14,6 +14,8 @@
 
   - [[1212]8진수 2진수 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1212%5D8%EC%A7%84%EC%88%98%202%EC%A7%84%EC%88%98)
 
+  - [[1264]모음의 개수 - Bronze 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1264%5D%EB%AA%A8%EC%9D%8C%EC%9D%98%20%EA%B0%9C%EC%88%98)
+
   - [[1270]전쟁-땅따먹기 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1270%5D%EC%A0%84%EC%9F%81-%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0)
 
   - [[1292]쉽게 푸는 문제 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1292%5D%EC%89%BD%EA%B2%8C%20%ED%91%B8%EB%8A%94%20%EB%AC%B8%EC%A0%9C)
