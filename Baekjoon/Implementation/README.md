@@ -38,7 +38,7 @@
 
   - [[2910]빈도 정렬 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2910%5D%EB%B9%88%EB%8F%84%20%EC%A0%95%EB%A0%AC)
 
-  - [[4101]크냐? - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B4101%5D%ED%81%AC%EB%83%90%3F)
+  - [[4101]크냐? - Bronze 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B4101%5D%ED%81%AC%EB%83%90%EF%BC%9F)
 
   - [[4358]생태학 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B4358%5D%EC%83%9D%ED%83%9C%ED%95%99)
 
@@ -50,7 +50,7 @@
 
   - [[5430]AC - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B5430%5DAC)
 
-  - [[5596]과제 안 내신 분..?](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B5597%5D%EA%B3%BC%EC%A0%9C%20%EC%95%88%20%EB%82%B4%EC%8B%A0%20%EB%B6%84..%3F)
+  - [[5596]과제 안 내신 분..?](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B5597%5D%EA%B3%BC%EC%A0%9C%20%EC%95%88%20%EB%82%B4%EC%8B%A0%20%EB%B6%84%EF%BC%8E%EF%BC%8E%EF%BC%9F)
 
   - [[7785]회사에 있는 사람 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B7785%5D%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C)
 
