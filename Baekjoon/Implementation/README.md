@@ -30,6 +30,8 @@
 
   - [[1822]차집합 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B1822%5D%EC%B0%A8%EC%A7%91%ED%95%A9)
 
+  - [[2002]추월 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2002%5D%EC%B6%94%EC%9B%94)
+
   - [[2490]윷놀이 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2490%5D%EC%9C%B7%EB%86%80%EC%9D%B4)
 
   - [[2721]삼각수의 합 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2721%5D%EC%82%BC%EA%B0%81%EC%88%98%EC%9D%98%20%ED%95%A9)
