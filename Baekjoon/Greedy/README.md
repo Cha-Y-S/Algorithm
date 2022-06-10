@@ -20,4 +20,6 @@
 
   - [[11047]동전 0 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Greedy/%5B11047%5D%EB%8F%99%EC%A0%84%200)
 
+  - [[14711]타일 뒤집기 (Easy) - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Greedy/%5B14711%5D%ED%83%80%EC%9D%BC%20%EB%92%A4%EC%A7%91%EA%B8%B0%20(Easy))
+
 ---
