@@ -66,6 +66,8 @@
 
   - [[10870]피보나치 수 5 - Bronze 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B10870%5D%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%205)
 
+  - [[11048]이동하기 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11048%5D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)
+
   - [[11053]가장 긴 증가하는 부분 수열 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11053%5D%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)
 
   - [[11054]가장 긴 바이토닉 부분 수열 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming/%5B11054%5D%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)
