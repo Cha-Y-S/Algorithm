@@ -34,6 +34,8 @@
 
   - [[2490]윷놀이 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2490%5D%EC%9C%B7%EB%86%80%EC%9D%B4)
 
+  - [[2466]별 찍기 - 9 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2466%5D%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%209)
+
   - [[2721]삼각수의 합 - Bronze 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2721%5D%EC%82%BC%EA%B0%81%EC%88%98%EC%9D%98%20%ED%95%A9)
 
   - [[2776]암기왕 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B2776%5D%EC%95%94%EA%B8%B0%EC%99%95)
