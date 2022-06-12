@@ -46,6 +46,8 @@
 
   - [[15015]Manhattan Mornings - Gold 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B15015%5DManhattan%20Mornings)
 
+  - [[17951]흩날리는 시험지 속에서 내 평점이 느껴진거야 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B17951%5D%ED%9D%A9%EB%82%A0%EB%A6%AC%EB%8A%94%20%EC%8B%9C%ED%97%98%EC%A7%80%20%EC%86%8D%EC%97%90%EC%84%9C%20%EB%82%B4%20%ED%8F%89%EC%A0%90%EC%9D%B4%20%EB%8A%90%EA%BB%B4%EC%A7%84%EA%B1%B0%EC%95%BC)
+
   - [[23035]가톨릭대는 고양이를 사랑해 - Platinum 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BinarySearch/%5B23035%5D%EA%B0%80%ED%86%A8%EB%A6%AD%EB%8C%80%EB%8A%94%20%EA%B3%A0%EC%96%91%EC%9D%B4%EB%A5%BC%20%EC%82%AC%EB%9E%91%ED%95%B4)
 
 ---
