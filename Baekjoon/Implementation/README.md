@@ -84,4 +84,6 @@
 
   - [[17219]비밀번호 찾기 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B17219%5D%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%B0%BE%EA%B8%B0)
 
+  - [[18258]큐 2 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Implementation/%5B18258%5D%ED%81%90%202)
+
 ---
