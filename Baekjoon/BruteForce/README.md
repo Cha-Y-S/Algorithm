@@ -14,6 +14,8 @@
 
   - [[1107]리모컨 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1107%5D%EB%A6%AC%EB%AA%A8%EC%BB%A8)
 
+  - [[1145]적어도 대부분의 배수 - Bronze 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1145%5D%EC%A0%81%EC%96%B4%EB%8F%84%20%EB%8C%80%EB%B6%80%EB%B6%84%EC%9D%98%20%EB%B0%B0%EC%88%98)
+
   - [[1436]영화감독 숌 - Silver 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1436%5D%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C)
 
   - [[1895]필터 - Silver 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce/%5B1895%5D%ED%95%84%ED%84%B0)
