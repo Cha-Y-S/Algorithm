@@ -13,5 +13,7 @@
   - [[4889]안정적인 문자열 - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Stack/%5B4889%5D%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8%20%EB%AC%B8%EC%9E%90%EC%97%B4)
 
   - [[9935]문자열 폭발 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Stack/%5B9935%5D%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C)
+  
+  - [[17413]단어 뒤집기 2 - Silver 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Stack/%5B17413%5D%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0%202)
 
 ---
