@@ -10,6 +10,8 @@
 
   - [[1931]회의실 배정 - Silver 2](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Greedy/%5B1931%5D%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95)
 
+  - [[2109]순회강연 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Greedy/%5B2109%5D%EC%88%9C%ED%9A%8C%EA%B0%95%EC%97%B0)
+
   - [[2437]저울 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Greedy/%5B2437%5D%EC%A0%80%EC%9A%B8)
 
   - [[2457]공주님의 정원 - Gold 3](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Greedy/%5B2457%5D%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%98%20%EC%A0%95%EC%9B%90)
