@@ -142,6 +142,8 @@
 
   - [[16953]A → B - Silver 1](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B16953%5DA%20%E2%86%92%20B)
 
+  - [[17070]파이프 옮기기 1 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B17070%5D%ED%8C%8C%EC%9D%B4%ED%94%84%20%EC%98%AE%EA%B8%B0%EA%B8%B0%201)
+
   - [[17141]연구소 2 - Gold 5](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B17141%5D%EC%97%B0%EA%B5%AC%EC%86%8C%202)
 
   - [[17142]연구소 3 - Gold 4](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph/%5B17142%5D%EC%97%B0%EA%B5%AC%EC%86%8C%203)
