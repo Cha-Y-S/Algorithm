@@ -28,10 +28,6 @@ int main() {
   sort(info.begin(), info.end());
 
   for (int i = 0; i < N; i++) {
-    cout << info[i].first << " " << info[i].second << endl;
-  }
-
-  for (int i = 0; i < N; i++) {
     pq.push(info[i].second);
     res += info[i].second;
 
