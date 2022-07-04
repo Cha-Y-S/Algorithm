@@ -40,7 +40,7 @@
 </div>
 
 <div align=center>
-  <img src="https://upload.acmicpc.net/0f445b26-4e5b-4169-8a1a-89c9e115907e/-/preview/" width="886" height="203"/>
+  <img src="https://upload.acmicpc.net/ace5e982-6a52-4982-b51d-6c33c6b742bf/-/preview/" width="886" height="203"/>
   대각선
 </div>
 
