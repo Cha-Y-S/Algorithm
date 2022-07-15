@@ -1,13 +1,36 @@
 # Baekjoon
 
-  - [Brute Force](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/BruteForce)
+## [백준](https://www.acmicpc.net) Solved 문제 종합
 
-  - [Dynamic Programming](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/DynamicProgramming)
+  - 백준 문제들 중 해결 완료된 문제들을 종합하는 스페이스
 
-  - [Graph](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Graph)
+  - 해결된 문제들 마다 README에 문제 접근 방식(해결 방식) 작성
 
-  - [Greedy](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Greedy)
+---
 
-  - [Math](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Math)
+## Commit Rule
 
-  - [Sorting](https://github.com/firemancha/Algorithm/tree/main/Baekjoon/Sorting)
+  - 문제 해결: sol - **{ YYYY/MM/DD }** ICPC **{ 문제 번호 }** - **{ 문제 제목 }** 해결
+
+  - 소스 수정: edit - **{ 문제 번호 }** - **{ 문제 제목 }** 소스 수정
+
+  - README 수정: doc - **{ 문제 번호 }** - **{ 문제 제목 }** README 수정
+
+---
+
+## Change Log
+
+|    Date    |                        Desc                         |
+| :--------: | :-------------------------------------------------: |
+| 2022.07.15 | 문제 category: 문제 유형 -> 문제 번호 기준으로 변경 |
+
+---
+<div align=center>
+
+### Author
+
+</div>
+
+<div align=center>
+  <a href="https://github.com/firemancha">Firemancha</a>
+</div>
