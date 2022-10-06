@@ -22,7 +22,7 @@ void circulate_air(int x_start, int y_start, bool direction = true);
 void print_house();
 
 int main() {
-  // fast_io();
+  fast_io();
 
   init_data();
 
