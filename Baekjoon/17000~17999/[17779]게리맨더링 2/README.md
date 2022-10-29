@@ -50,9 +50,9 @@
       <td align=center><img src="https://upload.acmicpc.net/892417dd-b824-4d4e-8bce-2faf341a9f66/-/preview/" width="300" height="302"/></td>
     </tr>
     <tr>
-      <td align=center>x = 2, y = 4, d1 = 2, d2 = 2</td>
-      <td align=center>x = 2, y = 5, d1 = 3, d2 = 2</td>
-      <td align=center>x = 4, y = 3, d1 = 1, d2 = 1</td>
+      <td align=center>x = 2, y = 4, d<sub>1</sub> = 2, d<sub>2</sub> = 2</td>
+      <td align=center>x = 2, y = 5, d<sub>1</sub> = 3, d<sub>2</sub> = 2</td>
+      <td align=center>x = 4, y = 3, d<sub>1</sub> = 1, d<sub>2</sub> = 1</td>
     </tr>
   </table>
 </div>
